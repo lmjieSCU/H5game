@@ -1,0 +1,1535 @@
+{
+	"groups": [
+		{
+			"keys": "quan_png,tipbg_png,Map_json,AI_dis_json,thumbstick-background_png,thumbstick-pad_png,aiBtn_png,button_back_png,demoBg_jpg,fightBtn_png,Home_arrow_left_png,Home_arrow_right_png,Home_lightning_png,logo_defeat_png,logo_vicotry_png,bg_9_1_png,bg_9_2_png,bg_9_3_png,stage_png,Fight_pic_lightning_png,Word_05_png,Word_06_png,Word_07_png,Word_08_png,Word_09_png,Word_10_png,Word_point_png,Fight_pic_fail_png,Fight_pic_victory_png,Word_01_png,Word_02_png,Word_03_png,Word_04_png,Popup_button_order_png,Popup_button_out_png,Popup_buttonput_continue_png,Popup_buttonput_order_png,Popup_buttonput_out_png,Popup_close_png,Popup_box_png,Popup_button_continue_png,Word_11_png,click_mp3,line_png,Button_back_png,Choose_button_backbg_png,Choose_button_begin_png,Choose_buttonput_begin_png,button_delet_png,dial_box_png,matchboard_png,number1_png,number2_png,number3_png,number4_png,number5_png,number6_png,number7_png,number8_png,number9_png,bgm1_snd_mp3,down_mp3,down2_mp3,fight_mp3,lose_mp3,round1_mp3,round2_mp3,round3_mp3,select_mp3,stand_json,circle_hand_png,Fight_remotebutton_shadow_png,Popup_skill_png,roma9_png,roma8_png,roma7_png,roma6_png,roma5_png,roma4_png,roma3_png,roma2_png,roma1_png,roma0_png,order_mp3,loadingChunli_png,progress_png,progressBg_png,loadingArrow_png,loadingHeroRyu_png,loadingHeroChunli_png,loadingHeroK_png,Popup_welcome_png,Word_20_png,Word_21_png,Word_22_png,Word_23_png,Adventure_box_png,Adventure_box_map_png,Adventure_head_png,Adventure_loading_red_png,Adventure_left_png,Adventure_smallbox_left_png,Adventure_loading_blue_png,Choose_heroK_png,Choose_roleboxChunli_png,Choose_roleboxK_png,Choose_roleboxRyu_png,Choose_roleboxTerry_png,Choose_rolebox_lock_png,Choose_rolebox_shadow_png,Choose_heroTerry_png,Choose_heroRyu_png,Choose_heroChunli_png,select_bg_png,select_boxbg_png,rankBtn_png,matchBtn_png,Home_platform_png,Home_loading_png,Home_loading_bg_png,Home_head_png,Home_head_portrait_png,Home_button_taskshadow_png,Home_button_task_png,Home_button_supplement_png,Home_button_Signinshadow_png,Home_button_Signin_png,Home_button_shopshadow_png,Home_button_shop_png,Home_button_setshadow_png,Home_button_set_png,Home_button_recruitshadow_png,Home_button_recruit_png,Home_button_inheritshadow_png,Home_button_inherit_png,Home_button_drawshadow_png,Home_button_draw_png,Home_button_add_png,Home_box_pilao_png,Home_box_gold_png,Home_box_crystal_png,loading9_png,loading8_png,loading7_png,loading6_png,loading5_png,loading4_png,loading3_png,loading2_png,loading1_png,loading0_png,Loading_boxTerry_png,Loading_boxRyu_png,Loading_boxK_png,Loading_boxChunli_png,loadingWait_png,loadingHeroTerry_png,Draw_head_png,Draw_buttonput_draw_png,Draw_button_draw_png,Draw_box_skill_png,Draw_box_shadow_png,Draw_box_recruit_png,Draw_box_middle_png,Draw_box_hero_png,Draw_box_gold02_png,Draw_box_gold01_png,Draw_box_fragment_png,Draw_box_crystal_png,Recruit_time_png,Recruit_Reward_S_png,Recruit_Reward_B_png,Recruit_Reward_A_png,Recruit_buttonput_W_png,Recruit_buttonput_recruit_png,Recruit_buttonput_finish_png,Recruit_button_W_png,Recruit_button_recruit_png,Recruit_button_finish_png,Recruit_box_png,Recruit_back_png,Shop_skill06_png,Shop_skill05_png,Shop_skill04_png,Shop_skill03_png,Shop_skill02_png,Shop_skill01_png,Shop_pic_man_png,Shop_number09_png,Shop_number08_png,Shop_number07_png,Shop_number06_png,Shop_number05_png,Shop_number04_png,Shop_number03_png,Shop_number02_png,Shop_number01_png,Shop_number00_png,Shop_head_png,Shop_buttonput_Reset90_png,Shop_buttonput_Reset_png,Shop_buttonput_buy_png,Shop_button_Reset90_png,Shop_button_Reset_png,Shop_button_goodsoff_png,Shop_button_goods_png,Shop_button_exchangesoff_png,Shop_button_exchanges_png,Shop_button_buy_png,Shop_box02_png,Shop_box01_png,Task_Tbox_right_png,Task_Tbox_left_png,Task_progress_loading_png,Task_progress_bg_png,Task_pic_treasure_png,Task_pic_treasure_shadow_png,Task_pic_treasure_open_png,Task_head_png,Task_buttonput_reward_png,Task_buttonput_goldrefresh_png,Task_buttonput_adreward_png,Task_buttonput_adrefresh_png,Task_button_reward_png,Task_button_goldrefresh_png,Task_button_adreward_png,Task_button_adrefresh_png,Task_box_inside_png,HeroBoxChunli_png,HeroBoxRyu_png,HeroBoxK_png,HeroBoxTerry_png,Online_box_png,Online_button_startgame_png,Online_head_png,Ranking_box01_png,Ranking_box02_png,Ranking_box03_png,Ranking_head_png,Ranking_pic_round_png,Ranking_progress_png,Ranking_progress_bg_png,Ranking_star_off_png,Ranking_star_on_png,Ranking_word_1_png,Ranking_word_2_png,Ranking_word_3_png,Ranking_word_lv1_png,Ranking_word_lv2_png,Ranking_word_lv3_png,Ranking_word_lv4_png,Ranking_word_lv5_png,Ranking_word_lv6_png,Ranking_word_reward01_png,Ranking_word_reward02_png,Ranking_word_reward03_png,Novice_bg_png,Novice_button_ besigned07_png,Novice_button_ besigned_png,Novice_button_ sign07_png,Novice_button_sign_png,Novice_button_close_png,Novice_button_signed_png,Novice_day2_png,Novice_day1_png,Novice_day3_png,Novice_day4_png,Novice_day5_png,Novice_day7_png,Novice_day6_png,Novice_front_png,Signin_box_shadow0_png,Signin_box_shadow_png,Signin_head_png,Signin_holebox_png,Personal_pic_arrow_png,Personal_word_0_png,Personal_progress_png,Personal_word_1_png,Personal_word_3_png,Personal_word_4_png,Personal_word_2_png,Personal_word_5_png,Personal_word_6_png,Personal_word_7_png,Personal_word_9_png,Personal_word_8_png,Personal_word_exp_png,Personal_box_skillbg_png,Personal_box_mask_png,Personal_box_skillword_png,Personal_button_training_png,Personal_button_lock_png,Personal_button_Unlock_png,Personal_buttonput_Unlock_png,Personal_head_png,Personal_levelbox_png,Personal_holebox_bg_png,Personal_loading_bg_png,Personal_mask_skillbg_png,Personal_mask_Select_png,Home_smallbox_leftshadow_png,Home_button_reminder_png",
+			"name": "preload"
+		},
+		{
+			"keys": "bg_jpg",
+			"name": "loading"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/tipbg.png",
+			"type": "image",
+			"name": "tipbg_png"
+		},
+		{
+			"url": "assets/quan.png",
+			"type": "image",
+			"name": "quan_png"
+		},
+		{
+			"url": "assets/Map.json",
+			"type": "json",
+			"name": "Map_json"
+		},
+		{
+			"url": "assets/AI_dis.json",
+			"type": "json",
+			"name": "AI_dis_json"
+		},
+		{
+			"url": "assets/controler/thumbstick-background.png",
+			"type": "image",
+			"name": "thumbstick-background_png"
+		},
+		{
+			"url": "assets/controler/thumbstick-pad.png",
+			"type": "image",
+			"name": "thumbstick-pad_png"
+		},
+		{
+			"url": "assets/stage/bg_9_1.png",
+			"type": "image",
+			"name": "bg_9_1_png"
+		},
+		{
+			"url": "assets/stage/bg_9_2.png",
+			"type": "image",
+			"name": "bg_9_2_png"
+		},
+		{
+			"url": "assets/stage/bg_9_3.png",
+			"type": "image",
+			"name": "bg_9_3_png"
+		},
+		{
+			"url": "assets/demoUI/Home_arrow_left.png",
+			"type": "image",
+			"name": "Home_arrow_left_png"
+		},
+		{
+			"url": "assets/demoUI/Home_arrow_right.png",
+			"type": "image",
+			"name": "Home_arrow_right_png"
+		},
+		{
+			"url": "assets/demoUI/Home_lightning.png",
+			"type": "image",
+			"name": "Home_lightning_png"
+		},
+		{
+			"url": "assets/demoUI/aiBtn.png",
+			"type": "image",
+			"name": "aiBtn_png"
+		},
+		{
+			"url": "assets/demoUI/button_back.png",
+			"type": "image",
+			"name": "button_back_png"
+		},
+		{
+			"url": "assets/demoUI/demoBg.jpg",
+			"type": "image",
+			"name": "demoBg_jpg"
+		},
+		{
+			"url": "assets/demoUI/fightBtn.png",
+			"type": "image",
+			"name": "fightBtn_png"
+		},
+		{
+			"url": "assets/demoUI/logo_defeat.png",
+			"type": "image",
+			"name": "logo_defeat_png"
+		},
+		{
+			"url": "assets/demoUI/logo_vicotry.png",
+			"type": "image",
+			"name": "logo_vicotry_png"
+		},
+		{
+			"url": "assets/demoUI/stage.png",
+			"type": "image",
+			"name": "stage_png"
+		},
+		{
+			"url": "assets/demoUI/Fight_pic_lightning.png",
+			"type": "image",
+			"name": "Fight_pic_lightning_png"
+		},
+		{
+			"url": "assets/controler/Word_05.png",
+			"type": "image",
+			"name": "Word_05_png"
+		},
+		{
+			"url": "assets/controler/Word_06.png",
+			"type": "image",
+			"name": "Word_06_png"
+		},
+		{
+			"url": "assets/controler/Word_07.png",
+			"type": "image",
+			"name": "Word_07_png"
+		},
+		{
+			"url": "assets/controler/Word_08.png",
+			"type": "image",
+			"name": "Word_08_png"
+		},
+		{
+			"url": "assets/controler/Word_09.png",
+			"type": "image",
+			"name": "Word_09_png"
+		},
+		{
+			"url": "assets/controler/Word_10.png",
+			"type": "image",
+			"name": "Word_10_png"
+		},
+		{
+			"url": "assets/controler/Word_point.png",
+			"type": "image",
+			"name": "Word_point_png"
+		},
+		{
+			"url": "assets/controler/Fight_pic_fail.png",
+			"type": "image",
+			"name": "Fight_pic_fail_png"
+		},
+		{
+			"url": "assets/controler/Fight_pic_victory.png",
+			"type": "image",
+			"name": "Fight_pic_victory_png"
+		},
+		{
+			"url": "assets/controler/Word_01.png",
+			"type": "image",
+			"name": "Word_01_png"
+		},
+		{
+			"url": "assets/controler/Word_02.png",
+			"type": "image",
+			"name": "Word_02_png"
+		},
+		{
+			"url": "assets/controler/Word_03.png",
+			"type": "image",
+			"name": "Word_03_png"
+		},
+		{
+			"url": "assets/controler/Word_04.png",
+			"type": "image",
+			"name": "Word_04_png"
+		},
+		{
+			"url": "assets/demoUI/Popup_button_order.png",
+			"type": "image",
+			"name": "Popup_button_order_png"
+		},
+		{
+			"url": "assets/demoUI/Popup_button_out.png",
+			"type": "image",
+			"name": "Popup_button_out_png"
+		},
+		{
+			"url": "assets/demoUI/Popup_buttonput_continue.png",
+			"type": "image",
+			"name": "Popup_buttonput_continue_png"
+		},
+		{
+			"url": "assets/demoUI/Popup_buttonput_order.png",
+			"type": "image",
+			"name": "Popup_buttonput_order_png"
+		},
+		{
+			"url": "assets/demoUI/Popup_buttonput_out.png",
+			"type": "image",
+			"name": "Popup_buttonput_out_png"
+		},
+		{
+			"url": "assets/demoUI/Popup_close.png",
+			"type": "image",
+			"name": "Popup_close_png"
+		},
+		{
+			"url": "assets/demoUI/Popup_box.png",
+			"type": "image",
+			"name": "Popup_box_png"
+		},
+		{
+			"url": "assets/demoUI/Popup_button_continue.png",
+			"type": "image",
+			"name": "Popup_button_continue_png"
+		},
+		{
+			"url": "assets/controler/Word_11.png",
+			"type": "image",
+			"name": "Word_11_png"
+		},
+		{
+			"url": "assets/music/click.mp3",
+			"type": "sound",
+			"name": "click_mp3"
+		},
+		{
+			"url": "assets/controler/line.png",
+			"type": "image",
+			"name": "line_png"
+		},
+		{
+			"url": "assets/homeUI/Button_back.png",
+			"type": "image",
+			"name": "Button_back_png"
+		},
+		{
+			"url": "assets/homeUI/Choose_button_backbg.png",
+			"type": "image",
+			"name": "Choose_button_backbg_png"
+		},
+		{
+			"url": "assets/homeUI/Choose_button_begin.png",
+			"type": "image",
+			"name": "Choose_button_begin_png"
+		},
+		{
+			"url": "assets/homeUI/Choose_buttonput_begin.png",
+			"type": "image",
+			"name": "Choose_buttonput_begin_png"
+		},
+		{
+			"url": "assets/homeUI/button_delet.png",
+			"type": "image",
+			"name": "button_delet_png"
+		},
+		{
+			"url": "assets/homeUI/dial_box.png",
+			"type": "image",
+			"name": "dial_box_png"
+		},
+		{
+			"url": "assets/homeUI/matchboard.png",
+			"type": "image",
+			"name": "matchboard_png"
+		},
+		{
+			"url": "assets/homeUI/number1.png",
+			"type": "image",
+			"name": "number1_png"
+		},
+		{
+			"url": "assets/homeUI/number2.png",
+			"type": "image",
+			"name": "number2_png"
+		},
+		{
+			"url": "assets/homeUI/number3.png",
+			"type": "image",
+			"name": "number3_png"
+		},
+		{
+			"url": "assets/homeUI/number4.png",
+			"type": "image",
+			"name": "number4_png"
+		},
+		{
+			"url": "assets/homeUI/number5.png",
+			"type": "image",
+			"name": "number5_png"
+		},
+		{
+			"url": "assets/homeUI/number6.png",
+			"type": "image",
+			"name": "number6_png"
+		},
+		{
+			"url": "assets/homeUI/number7.png",
+			"type": "image",
+			"name": "number7_png"
+		},
+		{
+			"url": "assets/homeUI/number8.png",
+			"type": "image",
+			"name": "number8_png"
+		},
+		{
+			"url": "assets/homeUI/number9.png",
+			"type": "image",
+			"name": "number9_png"
+		},
+		{
+			"url": "assets/sound/bgm1_snd.mp3",
+			"type": "sound",
+			"name": "bgm1_snd_mp3"
+		},
+		{
+			"url": "assets/sound/down.mp3",
+			"type": "sound",
+			"name": "down_mp3"
+		},
+		{
+			"url": "assets/sound/down2.mp3",
+			"type": "sound",
+			"name": "down2_mp3"
+		},
+		{
+			"url": "assets/sound/fight.mp3",
+			"type": "sound",
+			"name": "fight_mp3"
+		},
+		{
+			"url": "assets/sound/lose.mp3",
+			"type": "sound",
+			"name": "lose_mp3"
+		},
+		{
+			"url": "assets/sound/round1.mp3",
+			"type": "sound",
+			"name": "round1_mp3"
+		},
+		{
+			"url": "assets/sound/round2.mp3",
+			"type": "sound",
+			"name": "round2_mp3"
+		},
+		{
+			"url": "assets/sound/round3.mp3",
+			"type": "sound",
+			"name": "round3_mp3"
+		},
+		{
+			"url": "assets/sound/select.mp3",
+			"type": "sound",
+			"name": "select_mp3"
+		},
+		{
+			"url": "assets/homeUI/stand.json",
+			"type": "sheet",
+			"name": "stand_json",
+			"subkeys": "roleChunli_i_70,roleChunli_i_71,roleChunli_i_72,roleChunli_i_73,roleChunli_i_74,roleChunli_i_75,roleChunli_i_76,roleChunli_i_77,roleChunli_i_78,roleChunli_i_79,roleK_i_22,roleK_i_23,roleK_i_24,roleK_i_25,roleK_i_26,roleK_i_27,roleK_i_28,roleK_i_29,roleK_i_30,roleK_i_31,roleK_i_32,roleK_i_33,roleK_i_34,roleK_i_35,roleK_i_36,roleK_i_37,roleK_i_38,roleK_i_39,roleK_i_40,roleK_i_41,roleK_i_42,roleK_i_43,roleRyu_i_1,roleRyu_i_36,roleRyu_i_37,roleRyu_i_38,roleRyu_i_39,roleRyu_i_40,roleRyu_i_41,roleRyu_i_42,roleRyu_i_43,roleRyu_i_44,roleTerry_i_17,roleTerry_i_18,roleTerry_i_19,roleTerry_i_23,roleTerry_i_24"
+		},
+		{
+			"url": "assets/controler/circle_hand.png",
+			"type": "image",
+			"name": "circle_hand_png"
+		},
+		{
+			"url": "assets/controler/Fight_remotebutton_shadow.png",
+			"type": "image",
+			"name": "Fight_remotebutton_shadow_png"
+		},
+		{
+			"url": "assets/controler/Popup_skill.png",
+			"type": "image",
+			"name": "Popup_skill_png"
+		},
+		{
+			"url": "assets/homeUI/roma0.png",
+			"type": "image",
+			"name": "roma0_png"
+		},
+		{
+			"url": "assets/homeUI/roma1.png",
+			"type": "image",
+			"name": "roma1_png"
+		},
+		{
+			"url": "assets/homeUI/roma2.png",
+			"type": "image",
+			"name": "roma2_png"
+		},
+		{
+			"url": "assets/homeUI/roma3.png",
+			"type": "image",
+			"name": "roma3_png"
+		},
+		{
+			"url": "assets/homeUI/roma4.png",
+			"type": "image",
+			"name": "roma4_png"
+		},
+		{
+			"url": "assets/homeUI/roma5.png",
+			"type": "image",
+			"name": "roma5_png"
+		},
+		{
+			"url": "assets/homeUI/roma6.png",
+			"type": "image",
+			"name": "roma6_png"
+		},
+		{
+			"url": "assets/homeUI/roma7.png",
+			"type": "image",
+			"name": "roma7_png"
+		},
+		{
+			"url": "assets/homeUI/roma8.png",
+			"type": "image",
+			"name": "roma8_png"
+		},
+		{
+			"url": "assets/homeUI/roma9.png",
+			"type": "image",
+			"name": "roma9_png"
+		},
+		{
+			"url": "assets/music/order.mp3",
+			"type": "sound",
+			"name": "order_mp3"
+		},
+		{
+			"url": "assets/loading/loadingChunli.png",
+			"type": "image",
+			"name": "loadingChunli_png"
+		},
+		{
+			"url": "assets/loading/progress.png",
+			"type": "image",
+			"name": "progress_png"
+		},
+		{
+			"url": "assets/loading/progressBg.png",
+			"type": "image",
+			"name": "progressBg_png"
+		},
+		{
+			"url": "assets/loading/loadingHeroChunli.png",
+			"type": "image",
+			"name": "loadingHeroChunli_png"
+		},
+		{
+			"url": "assets/loading/loadingArrow.png",
+			"type": "image",
+			"name": "loadingArrow_png"
+		},
+		{
+			"url": "assets/loading/loadingHeroRyu.png",
+			"type": "image",
+			"name": "loadingHeroRyu_png"
+		},
+		{
+			"url": "assets/loading/loadingHeroK.png",
+			"type": "image",
+			"name": "loadingHeroK_png"
+		},
+		{
+			"url": "assets/controler/Popup_welcome.png",
+			"type": "image",
+			"name": "Popup_welcome_png"
+		},
+		{
+			"url": "assets/controler/Word_20.png",
+			"type": "image",
+			"name": "Word_20_png"
+		},
+		{
+			"url": "assets/controler/Word_21.png",
+			"type": "image",
+			"name": "Word_21_png"
+		},
+		{
+			"url": "assets/controler/Word_22.png",
+			"type": "image",
+			"name": "Word_22_png"
+		},
+		{
+			"url": "assets/controler/Word_23.png",
+			"type": "image",
+			"name": "Word_23_png"
+		},
+		{
+			"url": "assets/fight/Adventure_box.png",
+			"type": "image",
+			"name": "Adventure_box_png"
+		},
+		{
+			"url": "assets/fight/Adventure_box_map.png",
+			"type": "image",
+			"name": "Adventure_box_map_png"
+		},
+		{
+			"url": "assets/fight/Adventure_head.png",
+			"type": "image",
+			"name": "Adventure_head_png"
+		},
+		{
+			"url": "assets/fight/Adventure_loading_red.png",
+			"type": "image",
+			"name": "Adventure_loading_red_png"
+		},
+		{
+			"url": "assets/fight/Adventure_left.png",
+			"type": "image",
+			"name": "Adventure_left_png"
+		},
+		{
+			"url": "assets/fight/Adventure_smallbox_left.png",
+			"type": "image",
+			"name": "Adventure_smallbox_left_png"
+		},
+		{
+			"url": "assets/fight/Adventure_loading_blue.png",
+			"type": "image",
+			"name": "Adventure_loading_blue_png"
+		},
+		{
+			"url": "assets/choose/Choose_heroK.png",
+			"type": "image",
+			"name": "Choose_heroK_png"
+		},
+		{
+			"url": "assets/choose/Choose_roleboxChunli.png",
+			"type": "image",
+			"name": "Choose_roleboxChunli_png"
+		},
+		{
+			"url": "assets/choose/Choose_roleboxK.png",
+			"type": "image",
+			"name": "Choose_roleboxK_png"
+		},
+		{
+			"url": "assets/choose/Choose_roleboxRyu.png",
+			"type": "image",
+			"name": "Choose_roleboxRyu_png"
+		},
+		{
+			"url": "assets/choose/Choose_roleboxTerry.png",
+			"type": "image",
+			"name": "Choose_roleboxTerry_png"
+		},
+		{
+			"url": "assets/choose/Choose_rolebox_lock.png",
+			"type": "image",
+			"name": "Choose_rolebox_lock_png"
+		},
+		{
+			"url": "assets/choose/Choose_rolebox_shadow.png",
+			"type": "image",
+			"name": "Choose_rolebox_shadow_png"
+		},
+		{
+			"url": "assets/choose/Choose_heroChunli.png",
+			"type": "image",
+			"name": "Choose_heroChunli_png"
+		},
+		{
+			"url": "assets/choose/Choose_heroRyu.png",
+			"type": "image",
+			"name": "Choose_heroRyu_png"
+		},
+		{
+			"url": "assets/choose/Choose_heroTerry.png",
+			"type": "image",
+			"name": "Choose_heroTerry_png"
+		},
+		{
+			"url": "assets/choose/select_bg.png",
+			"type": "image",
+			"name": "select_bg_png"
+		},
+		{
+			"url": "assets/choose/select_boxbg.png",
+			"type": "image",
+			"name": "select_boxbg_png"
+		},
+		{
+			"url": "assets/demoUI/matchBtn.png",
+			"type": "image",
+			"name": "matchBtn_png"
+		},
+		{
+			"url": "assets/demoUI/rankBtn.png",
+			"type": "image",
+			"name": "rankBtn_png"
+		},
+		{
+			"url": "assets/homeUI/Home_box_crystal.png",
+			"type": "image",
+			"name": "Home_box_crystal_png"
+		},
+		{
+			"url": "assets/homeUI/Home_box_gold.png",
+			"type": "image",
+			"name": "Home_box_gold_png"
+		},
+		{
+			"url": "assets/homeUI/Home_box_pilao.png",
+			"type": "image",
+			"name": "Home_box_pilao_png"
+		},
+		{
+			"url": "assets/homeUI/Home_button_Signin.png",
+			"type": "image",
+			"name": "Home_button_Signin_png"
+		},
+		{
+			"url": "assets/homeUI/Home_button_Signinshadow.png",
+			"type": "image",
+			"name": "Home_button_Signinshadow_png"
+		},
+		{
+			"url": "assets/homeUI/Home_button_add.png",
+			"type": "image",
+			"name": "Home_button_add_png"
+		},
+		{
+			"url": "assets/homeUI/Home_button_draw.png",
+			"type": "image",
+			"name": "Home_button_draw_png"
+		},
+		{
+			"url": "assets/homeUI/Home_button_drawshadow.png",
+			"type": "image",
+			"name": "Home_button_drawshadow_png"
+		},
+		{
+			"url": "assets/homeUI/Home_button_inherit.png",
+			"type": "image",
+			"name": "Home_button_inherit_png"
+		},
+		{
+			"url": "assets/homeUI/Home_button_inheritshadow.png",
+			"type": "image",
+			"name": "Home_button_inheritshadow_png"
+		},
+		{
+			"url": "assets/homeUI/Home_button_recruit.png",
+			"type": "image",
+			"name": "Home_button_recruit_png"
+		},
+		{
+			"url": "assets/homeUI/Home_button_recruitshadow.png",
+			"type": "image",
+			"name": "Home_button_recruitshadow_png"
+		},
+		{
+			"url": "assets/homeUI/Home_button_set.png",
+			"type": "image",
+			"name": "Home_button_set_png"
+		},
+		{
+			"url": "assets/homeUI/Home_button_setshadow.png",
+			"type": "image",
+			"name": "Home_button_setshadow_png"
+		},
+		{
+			"url": "assets/homeUI/Home_button_shop.png",
+			"type": "image",
+			"name": "Home_button_shop_png"
+		},
+		{
+			"url": "assets/homeUI/Home_button_shopshadow.png",
+			"type": "image",
+			"name": "Home_button_shopshadow_png"
+		},
+		{
+			"url": "assets/homeUI/Home_button_supplement.png",
+			"type": "image",
+			"name": "Home_button_supplement_png"
+		},
+		{
+			"url": "assets/homeUI/Home_button_task.png",
+			"type": "image",
+			"name": "Home_button_task_png"
+		},
+		{
+			"url": "assets/homeUI/Home_button_taskshadow.png",
+			"type": "image",
+			"name": "Home_button_taskshadow_png"
+		},
+		{
+			"url": "assets/homeUI/Home_head.png",
+			"type": "image",
+			"name": "Home_head_png"
+		},
+		{
+			"url": "assets/homeUI/Home_head_portrait.png",
+			"type": "image",
+			"name": "Home_head_portrait_png"
+		},
+		{
+			"url": "assets/homeUI/Home_loading.png",
+			"type": "image",
+			"name": "Home_loading_png"
+		},
+		{
+			"url": "assets/homeUI/Home_loading_bg.png",
+			"type": "image",
+			"name": "Home_loading_bg_png"
+		},
+		{
+			"url": "assets/homeUI/Home_platform.png",
+			"type": "image",
+			"name": "Home_platform_png"
+		},
+		{
+			"url": "assets/loading/Loading_boxChunli.png",
+			"type": "image",
+			"name": "Loading_boxChunli_png"
+		},
+		{
+			"url": "assets/loading/Loading_boxK.png",
+			"type": "image",
+			"name": "Loading_boxK_png"
+		},
+		{
+			"url": "assets/loading/Loading_boxRyu.png",
+			"type": "image",
+			"name": "Loading_boxRyu_png"
+		},
+		{
+			"url": "assets/loading/Loading_boxTerry.png",
+			"type": "image",
+			"name": "Loading_boxTerry_png"
+		},
+		{
+			"url": "assets/loading/loading0.png",
+			"type": "image",
+			"name": "loading0_png"
+		},
+		{
+			"url": "assets/loading/loading1.png",
+			"type": "image",
+			"name": "loading1_png"
+		},
+		{
+			"url": "assets/loading/loading2.png",
+			"type": "image",
+			"name": "loading2_png"
+		},
+		{
+			"url": "assets/loading/loading3.png",
+			"type": "image",
+			"name": "loading3_png"
+		},
+		{
+			"url": "assets/loading/loading4.png",
+			"type": "image",
+			"name": "loading4_png"
+		},
+		{
+			"url": "assets/loading/loading5.png",
+			"type": "image",
+			"name": "loading5_png"
+		},
+		{
+			"url": "assets/loading/loading6.png",
+			"type": "image",
+			"name": "loading6_png"
+		},
+		{
+			"url": "assets/loading/loading7.png",
+			"type": "image",
+			"name": "loading7_png"
+		},
+		{
+			"url": "assets/loading/loading8.png",
+			"type": "image",
+			"name": "loading8_png"
+		},
+		{
+			"url": "assets/loading/loading9.png",
+			"type": "image",
+			"name": "loading9_png"
+		},
+		{
+			"url": "assets/loading/loadingHeroTerry.png",
+			"type": "image",
+			"name": "loadingHeroTerry_png"
+		},
+		{
+			"url": "assets/loading/loadingWait.png",
+			"type": "image",
+			"name": "loadingWait_png"
+		},
+		{
+			"url": "assets/lottery/Draw_box_crystal.png",
+			"type": "image",
+			"name": "Draw_box_crystal_png"
+		},
+		{
+			"url": "assets/lottery/Draw_box_fragment.png",
+			"type": "image",
+			"name": "Draw_box_fragment_png"
+		},
+		{
+			"url": "assets/lottery/Draw_box_gold01.png",
+			"type": "image",
+			"name": "Draw_box_gold01_png"
+		},
+		{
+			"url": "assets/lottery/Draw_box_gold02.png",
+			"type": "image",
+			"name": "Draw_box_gold02_png"
+		},
+		{
+			"url": "assets/lottery/Draw_box_hero.png",
+			"type": "image",
+			"name": "Draw_box_hero_png"
+		},
+		{
+			"url": "assets/lottery/Draw_box_middle.png",
+			"type": "image",
+			"name": "Draw_box_middle_png"
+		},
+		{
+			"url": "assets/lottery/Draw_box_recruit.png",
+			"type": "image",
+			"name": "Draw_box_recruit_png"
+		},
+		{
+			"url": "assets/lottery/Draw_box_shadow.png",
+			"type": "image",
+			"name": "Draw_box_shadow_png"
+		},
+		{
+			"url": "assets/lottery/Draw_box_skill.png",
+			"type": "image",
+			"name": "Draw_box_skill_png"
+		},
+		{
+			"url": "assets/lottery/Draw_button_draw.png",
+			"type": "image",
+			"name": "Draw_button_draw_png"
+		},
+		{
+			"url": "assets/lottery/Draw_buttonput_draw.png",
+			"type": "image",
+			"name": "Draw_buttonput_draw_png"
+		},
+		{
+			"url": "assets/lottery/Draw_head.png",
+			"type": "image",
+			"name": "Draw_head_png"
+		},
+		{
+			"url": "assets/recruit/Recruit_Reward_A.png",
+			"type": "image",
+			"name": "Recruit_Reward_A_png"
+		},
+		{
+			"url": "assets/recruit/Recruit_Reward_B.png",
+			"type": "image",
+			"name": "Recruit_Reward_B_png"
+		},
+		{
+			"url": "assets/recruit/Recruit_Reward_S.png",
+			"type": "image",
+			"name": "Recruit_Reward_S_png"
+		},
+		{
+			"url": "assets/recruit/Recruit_back.png",
+			"type": "image",
+			"name": "Recruit_back_png"
+		},
+		{
+			"url": "assets/recruit/Recruit_box.png",
+			"type": "image",
+			"name": "Recruit_box_png"
+		},
+		{
+			"url": "assets/recruit/Recruit_button_W.png",
+			"type": "image",
+			"name": "Recruit_button_W_png"
+		},
+		{
+			"url": "assets/recruit/Recruit_button_finish.png",
+			"type": "image",
+			"name": "Recruit_button_finish_png"
+		},
+		{
+			"url": "assets/recruit/Recruit_button_recruit.png",
+			"type": "image",
+			"name": "Recruit_button_recruit_png"
+		},
+		{
+			"url": "assets/recruit/Recruit_buttonput_W.png",
+			"type": "image",
+			"name": "Recruit_buttonput_W_png"
+		},
+		{
+			"url": "assets/recruit/Recruit_buttonput_finish.png",
+			"type": "image",
+			"name": "Recruit_buttonput_finish_png"
+		},
+		{
+			"url": "assets/recruit/Recruit_buttonput_recruit.png",
+			"type": "image",
+			"name": "Recruit_buttonput_recruit_png"
+		},
+		{
+			"url": "assets/recruit/Recruit_time.png",
+			"type": "image",
+			"name": "Recruit_time_png"
+		},
+		{
+			"url": "assets/shop/Shop_box01.png",
+			"type": "image",
+			"name": "Shop_box01_png"
+		},
+		{
+			"url": "assets/shop/Shop_box02.png",
+			"type": "image",
+			"name": "Shop_box02_png"
+		},
+		{
+			"url": "assets/shop/Shop_button_Reset.png",
+			"type": "image",
+			"name": "Shop_button_Reset_png"
+		},
+		{
+			"url": "assets/shop/Shop_button_Reset90.png",
+			"type": "image",
+			"name": "Shop_button_Reset90_png"
+		},
+		{
+			"url": "assets/shop/Shop_button_buy.png",
+			"type": "image",
+			"name": "Shop_button_buy_png"
+		},
+		{
+			"url": "assets/shop/Shop_button_exchanges.png",
+			"type": "image",
+			"name": "Shop_button_exchanges_png"
+		},
+		{
+			"url": "assets/shop/Shop_button_exchangesoff.png",
+			"type": "image",
+			"name": "Shop_button_exchangesoff_png"
+		},
+		{
+			"url": "assets/shop/Shop_button_goods.png",
+			"type": "image",
+			"name": "Shop_button_goods_png"
+		},
+		{
+			"url": "assets/shop/Shop_button_goodsoff.png",
+			"type": "image",
+			"name": "Shop_button_goodsoff_png"
+		},
+		{
+			"url": "assets/shop/Shop_buttonput_Reset.png",
+			"type": "image",
+			"name": "Shop_buttonput_Reset_png"
+		},
+		{
+			"url": "assets/shop/Shop_buttonput_Reset90.png",
+			"type": "image",
+			"name": "Shop_buttonput_Reset90_png"
+		},
+		{
+			"url": "assets/shop/Shop_buttonput_buy.png",
+			"type": "image",
+			"name": "Shop_buttonput_buy_png"
+		},
+		{
+			"url": "assets/shop/Shop_head.png",
+			"type": "image",
+			"name": "Shop_head_png"
+		},
+		{
+			"url": "assets/shop/Shop_number00.png",
+			"type": "image",
+			"name": "Shop_number00_png"
+		},
+		{
+			"url": "assets/shop/Shop_number01.png",
+			"type": "image",
+			"name": "Shop_number01_png"
+		},
+		{
+			"url": "assets/shop/Shop_number02.png",
+			"type": "image",
+			"name": "Shop_number02_png"
+		},
+		{
+			"url": "assets/shop/Shop_number03.png",
+			"type": "image",
+			"name": "Shop_number03_png"
+		},
+		{
+			"url": "assets/shop/Shop_number04.png",
+			"type": "image",
+			"name": "Shop_number04_png"
+		},
+		{
+			"url": "assets/shop/Shop_number05.png",
+			"type": "image",
+			"name": "Shop_number05_png"
+		},
+		{
+			"url": "assets/shop/Shop_number06.png",
+			"type": "image",
+			"name": "Shop_number06_png"
+		},
+		{
+			"url": "assets/shop/Shop_number07.png",
+			"type": "image",
+			"name": "Shop_number07_png"
+		},
+		{
+			"url": "assets/shop/Shop_number08.png",
+			"type": "image",
+			"name": "Shop_number08_png"
+		},
+		{
+			"url": "assets/shop/Shop_number09.png",
+			"type": "image",
+			"name": "Shop_number09_png"
+		},
+		{
+			"url": "assets/shop/Shop_pic_man.png",
+			"type": "image",
+			"name": "Shop_pic_man_png"
+		},
+		{
+			"url": "assets/shop/Shop_skill01.png",
+			"type": "image",
+			"name": "Shop_skill01_png"
+		},
+		{
+			"url": "assets/shop/Shop_skill02.png",
+			"type": "image",
+			"name": "Shop_skill02_png"
+		},
+		{
+			"url": "assets/shop/Shop_skill03.png",
+			"type": "image",
+			"name": "Shop_skill03_png"
+		},
+		{
+			"url": "assets/shop/Shop_skill04.png",
+			"type": "image",
+			"name": "Shop_skill04_png"
+		},
+		{
+			"url": "assets/shop/Shop_skill05.png",
+			"type": "image",
+			"name": "Shop_skill05_png"
+		},
+		{
+			"url": "assets/shop/Shop_skill06.png",
+			"type": "image",
+			"name": "Shop_skill06_png"
+		},
+		{
+			"url": "assets/task/Task_Tbox_left.png",
+			"type": "image",
+			"name": "Task_Tbox_left_png"
+		},
+		{
+			"url": "assets/task/Task_Tbox_right.png",
+			"type": "image",
+			"name": "Task_Tbox_right_png"
+		},
+		{
+			"url": "assets/task/Task_box_inside.png",
+			"type": "image",
+			"name": "Task_box_inside_png"
+		},
+		{
+			"url": "assets/task/Task_button_adrefresh.png",
+			"type": "image",
+			"name": "Task_button_adrefresh_png"
+		},
+		{
+			"url": "assets/task/Task_button_adreward.png",
+			"type": "image",
+			"name": "Task_button_adreward_png"
+		},
+		{
+			"url": "assets/task/Task_button_goldrefresh.png",
+			"type": "image",
+			"name": "Task_button_goldrefresh_png"
+		},
+		{
+			"url": "assets/task/Task_button_reward.png",
+			"type": "image",
+			"name": "Task_button_reward_png"
+		},
+		{
+			"url": "assets/task/Task_buttonput_adrefresh.png",
+			"type": "image",
+			"name": "Task_buttonput_adrefresh_png"
+		},
+		{
+			"url": "assets/task/Task_buttonput_adreward.png",
+			"type": "image",
+			"name": "Task_buttonput_adreward_png"
+		},
+		{
+			"url": "assets/task/Task_buttonput_goldrefresh.png",
+			"type": "image",
+			"name": "Task_buttonput_goldrefresh_png"
+		},
+		{
+			"url": "assets/task/Task_buttonput_reward.png",
+			"type": "image",
+			"name": "Task_buttonput_reward_png"
+		},
+		{
+			"url": "assets/task/Task_head.png",
+			"type": "image",
+			"name": "Task_head_png"
+		},
+		{
+			"url": "assets/task/Task_pic_treasure.png",
+			"type": "image",
+			"name": "Task_pic_treasure_png"
+		},
+		{
+			"url": "assets/task/Task_pic_treasure_open.png",
+			"type": "image",
+			"name": "Task_pic_treasure_open_png"
+		},
+		{
+			"url": "assets/task/Task_pic_treasure_shadow.png",
+			"type": "image",
+			"name": "Task_pic_treasure_shadow_png"
+		},
+		{
+			"url": "assets/task/Task_progress_bg.png",
+			"type": "image",
+			"name": "Task_progress_bg_png"
+		},
+		{
+			"url": "assets/task/Task_progress_loading.png",
+			"type": "image",
+			"name": "Task_progress_loading_png"
+		},
+		{
+			"url": "assets/homeUI/HeroBoxChunli.png",
+			"type": "image",
+			"name": "HeroBoxChunli_png"
+		},
+		{
+			"url": "assets/homeUI/HeroBoxRyu.png",
+			"type": "image",
+			"name": "HeroBoxRyu_png"
+		},
+		{
+			"url": "assets/homeUI/HeroBoxK.png",
+			"type": "image",
+			"name": "HeroBoxK_png"
+		},
+		{
+			"url": "assets/homeUI/HeroBoxTerry.png",
+			"type": "image",
+			"name": "HeroBoxTerry_png"
+		},
+		{
+			"url": "assets/fight/Online_box.png",
+			"type": "image",
+			"name": "Online_box_png"
+		},
+		{
+			"url": "assets/fight/Online_button_startgame.png",
+			"type": "image",
+			"name": "Online_button_startgame_png"
+		},
+		{
+			"url": "assets/fight/Online_head.png",
+			"type": "image",
+			"name": "Online_head_png"
+		},
+		{
+			"url": "assets/fight/Ranking_box01.png",
+			"type": "image",
+			"name": "Ranking_box01_png"
+		},
+		{
+			"url": "assets/fight/Ranking_box02.png",
+			"type": "image",
+			"name": "Ranking_box02_png"
+		},
+		{
+			"url": "assets/fight/Ranking_box03.png",
+			"type": "image",
+			"name": "Ranking_box03_png"
+		},
+		{
+			"url": "assets/fight/Ranking_head.png",
+			"type": "image",
+			"name": "Ranking_head_png"
+		},
+		{
+			"url": "assets/fight/Ranking_pic_round.png",
+			"type": "image",
+			"name": "Ranking_pic_round_png"
+		},
+		{
+			"url": "assets/fight/Ranking_progress.png",
+			"type": "image",
+			"name": "Ranking_progress_png"
+		},
+		{
+			"url": "assets/fight/Ranking_progress_bg.png",
+			"type": "image",
+			"name": "Ranking_progress_bg_png"
+		},
+		{
+			"url": "assets/fight/Ranking_star_off.png",
+			"type": "image",
+			"name": "Ranking_star_off_png"
+		},
+		{
+			"url": "assets/fight/Ranking_star_on.png",
+			"type": "image",
+			"name": "Ranking_star_on_png"
+		},
+		{
+			"url": "assets/fight/Ranking_word_1.png",
+			"type": "image",
+			"name": "Ranking_word_1_png"
+		},
+		{
+			"url": "assets/fight/Ranking_word_2.png",
+			"type": "image",
+			"name": "Ranking_word_2_png"
+		},
+		{
+			"url": "assets/fight/Ranking_word_3.png",
+			"type": "image",
+			"name": "Ranking_word_3_png"
+		},
+		{
+			"url": "assets/fight/Ranking_word_lv1.png",
+			"type": "image",
+			"name": "Ranking_word_lv1_png"
+		},
+		{
+			"url": "assets/fight/Ranking_word_lv2.png",
+			"type": "image",
+			"name": "Ranking_word_lv2_png"
+		},
+		{
+			"url": "assets/fight/Ranking_word_lv3.png",
+			"type": "image",
+			"name": "Ranking_word_lv3_png"
+		},
+		{
+			"url": "assets/fight/Ranking_word_lv4.png",
+			"type": "image",
+			"name": "Ranking_word_lv4_png"
+		},
+		{
+			"url": "assets/fight/Ranking_word_lv5.png",
+			"type": "image",
+			"name": "Ranking_word_lv5_png"
+		},
+		{
+			"url": "assets/fight/Ranking_word_lv6.png",
+			"type": "image",
+			"name": "Ranking_word_lv6_png"
+		},
+		{
+			"url": "assets/fight/Ranking_word_reward01.png",
+			"type": "image",
+			"name": "Ranking_word_reward01_png"
+		},
+		{
+			"url": "assets/fight/Ranking_word_reward02.png",
+			"type": "image",
+			"name": "Ranking_word_reward02_png"
+		},
+		{
+			"url": "assets/fight/Ranking_word_reward03.png",
+			"type": "image",
+			"name": "Ranking_word_reward03_png"
+		},
+		{
+			"url": "assets/signin/Novice_bg.png",
+			"type": "image",
+			"name": "Novice_bg_png"
+		},
+		{
+			"url": "assets/signin/Novice_button_ besigned07.png",
+			"type": "image",
+			"name": "Novice_button_ besigned07_png"
+		},
+		{
+			"url": "assets/signin/Novice_button_ besigned.png",
+			"type": "image",
+			"name": "Novice_button_ besigned_png"
+		},
+		{
+			"url": "assets/signin/Novice_button_ sign07.png",
+			"type": "image",
+			"name": "Novice_button_ sign07_png"
+		},
+		{
+			"url": "assets/signin/Novice_button_sign.png",
+			"type": "image",
+			"name": "Novice_button_sign_png"
+		},
+		{
+			"url": "assets/signin/Novice_button_close.png",
+			"type": "image",
+			"name": "Novice_button_close_png"
+		},
+		{
+			"url": "assets/signin/Novice_button_signed.png",
+			"type": "image",
+			"name": "Novice_button_signed_png"
+		},
+		{
+			"url": "assets/signin/Novice_day2.png",
+			"type": "image",
+			"name": "Novice_day2_png"
+		},
+		{
+			"url": "assets/signin/Novice_day1.png",
+			"type": "image",
+			"name": "Novice_day1_png"
+		},
+		{
+			"url": "assets/signin/Novice_day3.png",
+			"type": "image",
+			"name": "Novice_day3_png"
+		},
+		{
+			"url": "assets/signin/Novice_day4.png",
+			"type": "image",
+			"name": "Novice_day4_png"
+		},
+		{
+			"url": "assets/signin/Novice_day5.png",
+			"type": "image",
+			"name": "Novice_day5_png"
+		},
+		{
+			"url": "assets/signin/Novice_day7.png",
+			"type": "image",
+			"name": "Novice_day7_png"
+		},
+		{
+			"url": "assets/signin/Novice_day6.png",
+			"type": "image",
+			"name": "Novice_day6_png"
+		},
+		{
+			"url": "assets/signin/Novice_front.png",
+			"type": "image",
+			"name": "Novice_front_png"
+		},
+		{
+			"url": "assets/signin/Signin_box_shadow0.png",
+			"type": "image",
+			"name": "Signin_box_shadow0_png"
+		},
+		{
+			"url": "assets/signin/Signin_box_shadow.png",
+			"type": "image",
+			"name": "Signin_box_shadow_png"
+		},
+		{
+			"url": "assets/signin/Signin_head.png",
+			"type": "image",
+			"name": "Signin_head_png"
+		},
+		{
+			"url": "assets/signin/Signin_holebox.png",
+			"type": "image",
+			"name": "Signin_holebox_png"
+		},
+		{
+			"url": "assets/person/Personal_pic_arrow.png",
+			"type": "image",
+			"name": "Personal_pic_arrow_png"
+		},
+		{
+			"url": "assets/person/Personal_word_0.png",
+			"type": "image",
+			"name": "Personal_word_0_png"
+		},
+		{
+			"url": "assets/person/Personal_progress.png",
+			"type": "image",
+			"name": "Personal_progress_png"
+		},
+		{
+			"url": "assets/person/Personal_word_1.png",
+			"type": "image",
+			"name": "Personal_word_1_png"
+		},
+		{
+			"url": "assets/person/Personal_word_3.png",
+			"type": "image",
+			"name": "Personal_word_3_png"
+		},
+		{
+			"url": "assets/person/Personal_word_4.png",
+			"type": "image",
+			"name": "Personal_word_4_png"
+		},
+		{
+			"url": "assets/person/Personal_word_2.png",
+			"type": "image",
+			"name": "Personal_word_2_png"
+		},
+		{
+			"url": "assets/person/Personal_word_5.png",
+			"type": "image",
+			"name": "Personal_word_5_png"
+		},
+		{
+			"url": "assets/person/Personal_word_6.png",
+			"type": "image",
+			"name": "Personal_word_6_png"
+		},
+		{
+			"url": "assets/person/Personal_word_7.png",
+			"type": "image",
+			"name": "Personal_word_7_png"
+		},
+		{
+			"url": "assets/person/Personal_word_9.png",
+			"type": "image",
+			"name": "Personal_word_9_png"
+		},
+		{
+			"url": "assets/person/Personal_word_8.png",
+			"type": "image",
+			"name": "Personal_word_8_png"
+		},
+		{
+			"url": "assets/person/Personal_word_exp.png",
+			"type": "image",
+			"name": "Personal_word_exp_png"
+		},
+		{
+			"url": "assets/person/Personal_box_skillbg.png",
+			"type": "image",
+			"name": "Personal_box_skillbg_png"
+		},
+		{
+			"url": "assets/person/Personal_box_mask.png",
+			"type": "image",
+			"name": "Personal_box_mask_png"
+		},
+		{
+			"url": "assets/person/Personal_box_skillword.png",
+			"type": "image",
+			"name": "Personal_box_skillword_png"
+		},
+		{
+			"url": "assets/person/Personal_button_training.png",
+			"type": "image",
+			"name": "Personal_button_training_png"
+		},
+		{
+			"url": "assets/person/Personal_button_lock.png",
+			"type": "image",
+			"name": "Personal_button_lock_png"
+		},
+		{
+			"url": "assets/person/Personal_button_Unlock.png",
+			"type": "image",
+			"name": "Personal_button_Unlock_png"
+		},
+		{
+			"url": "assets/person/Personal_buttonput_Unlock.png",
+			"type": "image",
+			"name": "Personal_buttonput_Unlock_png"
+		},
+		{
+			"url": "assets/person/Personal_head.png",
+			"type": "image",
+			"name": "Personal_head_png"
+		},
+		{
+			"url": "assets/person/Personal_levelbox.png",
+			"type": "image",
+			"name": "Personal_levelbox_png"
+		},
+		{
+			"url": "assets/person/Personal_holebox_bg.png",
+			"type": "image",
+			"name": "Personal_holebox_bg_png"
+		},
+		{
+			"url": "assets/person/Personal_loading_bg.png",
+			"type": "image",
+			"name": "Personal_loading_bg_png"
+		},
+		{
+			"url": "assets/person/Personal_mask_skillbg.png",
+			"type": "image",
+			"name": "Personal_mask_skillbg_png"
+		},
+		{
+			"url": "assets/person/Personal_mask_Select.png",
+			"type": "image",
+			"name": "Personal_mask_Select_png"
+		},
+		{
+			"url": "assets/homeUI/Home_smallbox_leftshadow.png",
+			"type": "image",
+			"name": "Home_smallbox_leftshadow_png"
+		},
+		{
+			"url": "assets/homeUI/Home_button_reminder.png",
+			"type": "image",
+			"name": "Home_button_reminder_png"
+		}
+	]
+}

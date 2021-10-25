@@ -1,0 +1,52 @@
+{"mc":{
+	"TransportDoor":{
+		"frameRate":24,
+		"labels":[
+			{"name":"Door","frame":1,"end":6}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"chuansong_01_png",
+			"x":0,
+			"y":0
+			},
+			{
+			"res":"chuansong_02_png",
+			"x":0,
+			"y":0
+			},
+			{
+			"res":"chuansong_03_png",
+			"x":0,
+			"y":0
+			},
+			{
+			"res":"chuansong_04_png",
+			"x":0,
+			"y":2
+			},
+			{
+			"res":"chuansong_05_png",
+			"x":6,
+			"y":2
+			},
+			{
+			"res":"chuansong_06_png",
+			"x":7,
+			"y":3
+			}
+			]
+}},
+	"res":{
+		"chuansong_03_png":{"x":55,"y":1,"w":51,"h":19},
+		"chuansong_02_png":{"x":1,"y":1,"w":52,"h":19},
+		"chuansong_05_png":{"x":54,"y":39,"w":46,"h":15},
+		"chuansong_01_png":{"x":1,"y":22,"w":51,"h":19},
+		"chuansong_06_png":{"x":1,"y":43,"w":44,"h":13},
+		"chuansong_04_png":{"x":54,"y":22,"w":51,"h":15}
+	}}

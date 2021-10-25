@@ -1,0 +1,35 @@
+{
+  "engineVersion": "5.2.28",
+  "compilerVersion": "5.2.28",
+  "template": {},
+  "target": {
+    "current": "web"
+  },
+  "modules": [
+    {
+      "name": "egret"
+    },
+    {
+      "name": "game"
+    },
+    {
+      "name": "tween"
+    },
+    {
+      "name": "assetsmanager"
+    },
+    {
+      "name": "promise"
+    },
+    {
+      "name": "WXCloudApi",
+      "path": "./libs/WXCloudApi"
+    }
+  ],
+  "targets": {
+    "android": {
+      "appname": "appl",
+      "packagename": "com.companyname"
+    }
+  }
+}

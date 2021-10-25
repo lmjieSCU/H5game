@@ -1,0 +1,1 @@
+{"version":3,"file":"initScene.js","sourceRoot":"","sources":["../../src/Scene/initScene.ts"],"names":[],"mappings":";;;;;;;;;;AAAA;IAAwB,6BAAK;IAEzB;QAAA,YACI,iBAAO,SAEV;;IAAD,CAAC;IAEM,2BAAO,GAAd;QACI,8BAA8B;QAC9B,YAAY,CAAC,CAAC,CAAC,WAAW,CAAC,IAAI,cAAc,CAAC,CAAA;IAElD,CAAC;IAEM,0BAAM,GAAb;IAEA,CAAC;IACL,gBAAC;AAAD,CAAC,AAhBD,CAAwB,KAAK,GAgB5B;AAhBK,UAAA,SAAS,wBAgBd,CAAA"}

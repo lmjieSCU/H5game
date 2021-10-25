@@ -1,0 +1,510 @@
+{
+	"groups": [
+		{
+			"keys": "quan_png,Map_json,AI_dis_json,thumbstick-background_png,thumbstick-pad_png,aiBtn_png,button_back_png,demoBg_jpg,fightBtn_png,Home_arrow_left_png,Home_arrow_right_png,Home_lightning_png,logo_defeat_png,logo_vicotry_png,pauseBtn_png,bg_9_1_png,bg_9_2_png,bg_9_3_png,stage_png,RyuBg_png,ChunliBg_png,TerryBg_png,KBg_png,Fight_pic_lightning_png,Word_05_png,Word_06_png,Word_07_png,Word_08_png,Word_09_png,Word_10_png,Word_point_png,Fight_pic_fail_png,Fight_pic_victory_png,Word_01_png,Word_02_png,Word_03_png,Word_04_png,Popup_button_order_png,Popup_button_out_png,Popup_buttonput_continue_png,Popup_buttonput_order_png,Popup_buttonput_out_png,Popup_close_png,Popup_box_png,Popup_button_continue_png,Word_11_png,click_mp3,line_png,doll_png,Button_back_png,Choose_button_backbg_png,Choose_button_begin_png,Choose_buttonput_begin_png,button_delet_png,dial_box_png,matchboard_png,number1_png,number2_png,number3_png,number4_png,number5_png,number6_png,number7_png,number8_png,number9_png,bgm1_snd_mp3,down_mp3,down2_mp3,fight_mp3,lose_mp3,round1_mp3,round2_mp3,round3_mp3,select_mp3,stand_json,circle_hand_png,Fight_remotebutton_shadow_png,Popup_skill_png,roma9_png,roma8_png,roma7_png,roma6_png,roma5_png,roma4_png,roma3_png,roma2_png,roma1_png,roma0_png,order_mp3,Word_13_box_png,loadingChunli_png,progress_png,progressBg_png,Popup_welcome_png,Word_20_png,Word_21_png,Word_22_png,Word_23_png",
+			"name": "preload"
+		},
+		{
+			"keys": "bg_jpg",
+			"name": "loading"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/quan.png",
+			"type": "image",
+			"name": "quan_png"
+		},
+		{
+			"url": "assets/Map.json",
+			"type": "json",
+			"name": "Map_json"
+		},
+		{
+			"url": "assets/AI_dis.json",
+			"type": "json",
+			"name": "AI_dis_json"
+		},
+		{
+			"url": "assets/controler/thumbstick-background.png",
+			"type": "image",
+			"name": "thumbstick-background_png"
+		},
+		{
+			"url": "assets/controler/thumbstick-pad.png",
+			"type": "image",
+			"name": "thumbstick-pad_png"
+		},
+		{
+			"url": "assets/stage/bg_9_1.png",
+			"type": "image",
+			"name": "bg_9_1_png"
+		},
+		{
+			"url": "assets/stage/bg_9_2.png",
+			"type": "image",
+			"name": "bg_9_2_png"
+		},
+		{
+			"url": "assets/stage/bg_9_3.png",
+			"type": "image",
+			"name": "bg_9_3_png"
+		},
+		{
+			"url": "assets/demoUI/Home_arrow_left.png",
+			"type": "image",
+			"name": "Home_arrow_left_png"
+		},
+		{
+			"url": "assets/demoUI/Home_arrow_right.png",
+			"type": "image",
+			"name": "Home_arrow_right_png"
+		},
+		{
+			"url": "assets/demoUI/Home_lightning.png",
+			"type": "image",
+			"name": "Home_lightning_png"
+		},
+		{
+			"url": "assets/demoUI/aiBtn.png",
+			"type": "image",
+			"name": "aiBtn_png"
+		},
+		{
+			"url": "assets/demoUI/button_back.png",
+			"type": "image",
+			"name": "button_back_png"
+		},
+		{
+			"url": "assets/demoUI/demoBg.jpg",
+			"type": "image",
+			"name": "demoBg_jpg"
+		},
+		{
+			"url": "assets/demoUI/fightBtn.png",
+			"type": "image",
+			"name": "fightBtn_png"
+		},
+		{
+			"url": "assets/demoUI/logo_defeat.png",
+			"type": "image",
+			"name": "logo_defeat_png"
+		},
+		{
+			"url": "assets/demoUI/logo_vicotry.png",
+			"type": "image",
+			"name": "logo_vicotry_png"
+		},
+		{
+			"url": "assets/demoUI/pauseBtn.png",
+			"type": "image",
+			"name": "pauseBtn_png"
+		},
+		{
+			"url": "assets/demoUI/stage.png",
+			"type": "image",
+			"name": "stage_png"
+		},
+		{
+			"url": "assets/demoUI/ChunliBg.png",
+			"type": "image",
+			"name": "ChunliBg_png"
+		},
+		{
+			"url": "assets/demoUI/RyuBg.png",
+			"type": "image",
+			"name": "RyuBg_png"
+		},
+		{
+			"url": "assets/demoUI/TerryBg.png",
+			"type": "image",
+			"name": "TerryBg_png"
+		},
+		{
+			"url": "assets/demoUI/KBg.png",
+			"type": "image",
+			"name": "KBg_png"
+		},
+		{
+			"url": "assets/demoUI/Fight_pic_lightning.png",
+			"type": "image",
+			"name": "Fight_pic_lightning_png"
+		},
+		{
+			"url": "assets/controler/Word_05.png",
+			"type": "image",
+			"name": "Word_05_png"
+		},
+		{
+			"url": "assets/controler/Word_06.png",
+			"type": "image",
+			"name": "Word_06_png"
+		},
+		{
+			"url": "assets/controler/Word_07.png",
+			"type": "image",
+			"name": "Word_07_png"
+		},
+		{
+			"url": "assets/controler/Word_08.png",
+			"type": "image",
+			"name": "Word_08_png"
+		},
+		{
+			"url": "assets/controler/Word_09.png",
+			"type": "image",
+			"name": "Word_09_png"
+		},
+		{
+			"url": "assets/controler/Word_10.png",
+			"type": "image",
+			"name": "Word_10_png"
+		},
+		{
+			"url": "assets/controler/Word_point.png",
+			"type": "image",
+			"name": "Word_point_png"
+		},
+		{
+			"url": "assets/controler/Fight_pic_fail.png",
+			"type": "image",
+			"name": "Fight_pic_fail_png"
+		},
+		{
+			"url": "assets/controler/Fight_pic_victory.png",
+			"type": "image",
+			"name": "Fight_pic_victory_png"
+		},
+		{
+			"url": "assets/controler/Word_01.png",
+			"type": "image",
+			"name": "Word_01_png"
+		},
+		{
+			"url": "assets/controler/Word_02.png",
+			"type": "image",
+			"name": "Word_02_png"
+		},
+		{
+			"url": "assets/controler/Word_03.png",
+			"type": "image",
+			"name": "Word_03_png"
+		},
+		{
+			"url": "assets/controler/Word_04.png",
+			"type": "image",
+			"name": "Word_04_png"
+		},
+		{
+			"url": "assets/demoUI/Popup_button_order.png",
+			"type": "image",
+			"name": "Popup_button_order_png"
+		},
+		{
+			"url": "assets/demoUI/Popup_button_out.png",
+			"type": "image",
+			"name": "Popup_button_out_png"
+		},
+		{
+			"url": "assets/demoUI/Popup_buttonput_continue.png",
+			"type": "image",
+			"name": "Popup_buttonput_continue_png"
+		},
+		{
+			"url": "assets/demoUI/Popup_buttonput_order.png",
+			"type": "image",
+			"name": "Popup_buttonput_order_png"
+		},
+		{
+			"url": "assets/demoUI/Popup_buttonput_out.png",
+			"type": "image",
+			"name": "Popup_buttonput_out_png"
+		},
+		{
+			"url": "assets/demoUI/Popup_close.png",
+			"type": "image",
+			"name": "Popup_close_png"
+		},
+		{
+			"url": "assets/demoUI/Popup_box.png",
+			"type": "image",
+			"name": "Popup_box_png"
+		},
+		{
+			"url": "assets/demoUI/Popup_button_continue.png",
+			"type": "image",
+			"name": "Popup_button_continue_png"
+		},
+		{
+			"url": "assets/controler/Word_11.png",
+			"type": "image",
+			"name": "Word_11_png"
+		},
+		{
+			"url": "assets/music/click.mp3",
+			"type": "sound",
+			"name": "click_mp3"
+		},
+		{
+			"url": "assets/controler/line.png",
+			"type": "image",
+			"name": "line_png"
+		},
+		{
+			"url": "assets/controler/doll.png",
+			"type": "image",
+			"name": "doll_png"
+		},
+		{
+			"url": "assets/homeUI/Button_back.png",
+			"type": "image",
+			"name": "Button_back_png"
+		},
+		{
+			"url": "assets/homeUI/Choose_button_backbg.png",
+			"type": "image",
+			"name": "Choose_button_backbg_png"
+		},
+		{
+			"url": "assets/homeUI/Choose_button_begin.png",
+			"type": "image",
+			"name": "Choose_button_begin_png"
+		},
+		{
+			"url": "assets/homeUI/Choose_buttonput_begin.png",
+			"type": "image",
+			"name": "Choose_buttonput_begin_png"
+		},
+		{
+			"url": "assets/homeUI/button_delet.png",
+			"type": "image",
+			"name": "button_delet_png"
+		},
+		{
+			"url": "assets/homeUI/dial_box.png",
+			"type": "image",
+			"name": "dial_box_png"
+		},
+		{
+			"url": "assets/homeUI/matchboard.png",
+			"type": "image",
+			"name": "matchboard_png"
+		},
+		{
+			"url": "assets/homeUI/number1.png",
+			"type": "image",
+			"name": "number1_png"
+		},
+		{
+			"url": "assets/homeUI/number2.png",
+			"type": "image",
+			"name": "number2_png"
+		},
+		{
+			"url": "assets/homeUI/number3.png",
+			"type": "image",
+			"name": "number3_png"
+		},
+		{
+			"url": "assets/homeUI/number4.png",
+			"type": "image",
+			"name": "number4_png"
+		},
+		{
+			"url": "assets/homeUI/number5.png",
+			"type": "image",
+			"name": "number5_png"
+		},
+		{
+			"url": "assets/homeUI/number6.png",
+			"type": "image",
+			"name": "number6_png"
+		},
+		{
+			"url": "assets/homeUI/number7.png",
+			"type": "image",
+			"name": "number7_png"
+		},
+		{
+			"url": "assets/homeUI/number8.png",
+			"type": "image",
+			"name": "number8_png"
+		},
+		{
+			"url": "assets/homeUI/number9.png",
+			"type": "image",
+			"name": "number9_png"
+		},
+		{
+			"url": "assets/sound/bgm1_snd.mp3",
+			"type": "sound",
+			"name": "bgm1_snd_mp3"
+		},
+		{
+			"url": "assets/sound/down.mp3",
+			"type": "sound",
+			"name": "down_mp3"
+		},
+		{
+			"url": "assets/sound/down2.mp3",
+			"type": "sound",
+			"name": "down2_mp3"
+		},
+		{
+			"url": "assets/sound/fight.mp3",
+			"type": "sound",
+			"name": "fight_mp3"
+		},
+		{
+			"url": "assets/sound/lose.mp3",
+			"type": "sound",
+			"name": "lose_mp3"
+		},
+		{
+			"url": "assets/sound/round1.mp3",
+			"type": "sound",
+			"name": "round1_mp3"
+		},
+		{
+			"url": "assets/sound/round2.mp3",
+			"type": "sound",
+			"name": "round2_mp3"
+		},
+		{
+			"url": "assets/sound/round3.mp3",
+			"type": "sound",
+			"name": "round3_mp3"
+		},
+		{
+			"url": "assets/sound/select.mp3",
+			"type": "sound",
+			"name": "select_mp3"
+		},
+		{
+			"url": "assets/homeUI/stand.json",
+			"type": "sheet",
+			"name": "stand_json",
+			"subkeys": "roleChunli_i_70,roleChunli_i_71,roleChunli_i_72,roleChunli_i_73,roleChunli_i_74,roleChunli_i_75,roleChunli_i_76,roleChunli_i_77,roleChunli_i_78,roleChunli_i_79,roleK_i_22,roleK_i_23,roleK_i_24,roleK_i_25,roleK_i_26,roleK_i_27,roleK_i_28,roleK_i_29,roleK_i_30,roleK_i_31,roleK_i_32,roleK_i_33,roleK_i_34,roleK_i_35,roleK_i_36,roleK_i_37,roleK_i_38,roleK_i_39,roleK_i_40,roleK_i_41,roleK_i_42,roleK_i_43,roleRyu_i_1,roleRyu_i_36,roleRyu_i_37,roleRyu_i_38,roleRyu_i_39,roleRyu_i_40,roleRyu_i_41,roleRyu_i_42,roleRyu_i_43,roleRyu_i_44,roleTerry_i_17,roleTerry_i_18,roleTerry_i_19,roleTerry_i_23,roleTerry_i_24"
+		},
+		{
+			"url": "assets/controler/circle_hand.png",
+			"type": "image",
+			"name": "circle_hand_png"
+		},
+		{
+			"url": "assets/controler/Fight_remotebutton_shadow.png",
+			"type": "image",
+			"name": "Fight_remotebutton_shadow_png"
+		},
+		{
+			"url": "assets/controler/Popup_skill.png",
+			"type": "image",
+			"name": "Popup_skill_png"
+		},
+		{
+			"url": "assets/homeUI/roma0.png",
+			"type": "image",
+			"name": "roma0_png"
+		},
+		{
+			"url": "assets/homeUI/roma1.png",
+			"type": "image",
+			"name": "roma1_png"
+		},
+		{
+			"url": "assets/homeUI/roma2.png",
+			"type": "image",
+			"name": "roma2_png"
+		},
+		{
+			"url": "assets/homeUI/roma3.png",
+			"type": "image",
+			"name": "roma3_png"
+		},
+		{
+			"url": "assets/homeUI/roma4.png",
+			"type": "image",
+			"name": "roma4_png"
+		},
+		{
+			"url": "assets/homeUI/roma5.png",
+			"type": "image",
+			"name": "roma5_png"
+		},
+		{
+			"url": "assets/homeUI/roma6.png",
+			"type": "image",
+			"name": "roma6_png"
+		},
+		{
+			"url": "assets/homeUI/roma7.png",
+			"type": "image",
+			"name": "roma7_png"
+		},
+		{
+			"url": "assets/homeUI/roma8.png",
+			"type": "image",
+			"name": "roma8_png"
+		},
+		{
+			"url": "assets/homeUI/roma9.png",
+			"type": "image",
+			"name": "roma9_png"
+		},
+		{
+			"url": "assets/music/order.mp3",
+			"type": "sound",
+			"name": "order_mp3"
+		},
+		{
+			"url": "assets/demoUI/Word_13_box.png",
+			"type": "image",
+			"name": "Word_13_box_png"
+		},
+		{
+			"url": "assets/loading/loadingChunli.png",
+			"type": "image",
+			"name": "loadingChunli_png"
+		},
+		{
+			"url": "assets/loading/progress.png",
+			"type": "image",
+			"name": "progress_png"
+		},
+		{
+			"url": "assets/loading/progressBg.png",
+			"type": "image",
+			"name": "progressBg_png"
+		},
+		{
+			"url": "assets/controler/Popup_welcome.png",
+			"type": "image",
+			"name": "Popup_welcome_png"
+		},
+		{
+			"url": "assets/controler/Word_20.png",
+			"type": "image",
+			"name": "Word_20_png"
+		},
+		{
+			"url": "assets/controler/Word_21.png",
+			"type": "image",
+			"name": "Word_21_png"
+		},
+		{
+			"url": "assets/controler/Word_22.png",
+			"type": "image",
+			"name": "Word_22_png"
+		},
+		{
+			"url": "assets/controler/Word_23.png",
+			"type": "image",
+			"name": "Word_23_png"
+		}
+	]
+}

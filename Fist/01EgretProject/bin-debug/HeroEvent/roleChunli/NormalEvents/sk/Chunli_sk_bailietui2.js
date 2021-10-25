@@ -1,0 +1,263 @@
+var __reflect = (this && this.__reflect) || function (p, c, t) {
+    p.__class__ = c, t ? t.push(c) : t = [c], p.__types__ = p.__types__ ? t.concat(p.__types__) : t;
+};
+var Chunli_sk_bailietui2 = (function () {
+    function Chunli_sk_bailietui2() {
+    }
+    Chunli_sk_bailietui2.addSprite15300 = function (mc, own_role) {
+        mc.addFrameScript(mc, [2, Chunli_sk_bailietui2.frame2, 7, Chunli_sk_bailietui2.frame7, 8, Chunli_sk_bailietui2.frame8, 11, Chunli_sk_bailietui2.frame11, 15, Chunli_sk_bailietui2.frame15, 18, Chunli_sk_bailietui2.frame18, 22, Chunli_sk_bailietui2.frame22, 25, Chunli_sk_bailietui2.frame25, 28, Chunli_sk_bailietui2.frame28, 31, Chunli_sk_bailietui2.frame31, 35, Chunli_sk_bailietui2.frame35, 45, Chunli_sk_bailietui2.frame45, 63, Chunli_sk_bailietui2.frame63]);
+        return;
+    };
+    Chunli_sk_bailietui2.frame2 = function (mc) {
+        var _parentRole = EventUtil.getRole_Parent(mc);
+        if (_parentRole == null) {
+            return;
+        }
+    };
+    Chunli_sk_bailietui2.frame7 = function (mc) {
+        var htcheck = Hero_HitCheck.getInstance(mc);
+        htcheck.freezeTime = 1;
+        htcheck.isObj = false;
+        htcheck.hitPos = "";
+        htcheck.hitType = "hitFire1";
+        htcheck.hitShinning = false;
+        htcheck.hitEff = "";
+        htcheck.hurtAway = "hurt3";
+        htcheck.hurtBack = "hurt2";
+        htcheck.end_status = "";
+        htcheck.slowTime = 0;
+        htcheck.checkTimes = 1;
+        htcheck.d_rate = 0.2;
+        htcheck.flag = 1;
+        htcheck.g = 0;
+        htcheck.Vy = 0;
+        htcheck.a = 0;
+        htcheck.Vx = 0;
+        htcheck.freezeTime2 = 2;
+        htcheck.shake = 0;
+        htcheck.reCheck = true;
+    };
+    Chunli_sk_bailietui2.frame8 = function (mc) {
+        var _parentRole = EventUtil.getRole_Parent(mc);
+        if (_parentRole == null) {
+            return;
+        }
+    };
+    Chunli_sk_bailietui2.frame11 = function (mc) {
+        var htcheck = Hero_HitCheck.getInstance(mc);
+        htcheck.freezeTime = 1;
+        htcheck.isObj = false;
+        htcheck.hitPos = "";
+        htcheck.hitType = "hitFire1";
+        htcheck.hitShinning = false;
+        htcheck.hitEff = "";
+        htcheck.hurtAway = "hurt3";
+        htcheck.hurtBack = "hurt1";
+        htcheck.end_status = "";
+        htcheck.slowTime = 0;
+        htcheck.checkTimes = 1;
+        htcheck.d_rate = 0.2;
+        htcheck.flag = 1;
+        htcheck.g = 0;
+        htcheck.Vy = 0;
+        htcheck.a = 0;
+        htcheck.Vx = 0;
+        htcheck.freezeTime2 = 2;
+        htcheck.shake = 0;
+        htcheck.reCheck = true;
+    };
+    Chunli_sk_bailietui2.frame15 = function (mc) {
+        var htcheck = Hero_HitCheck.getInstance(mc);
+        htcheck.freezeTime = 1;
+        htcheck.isObj = false;
+        htcheck.hitPos = "";
+        htcheck.hitType = "hitFire1";
+        htcheck.hitShinning = false;
+        htcheck.hitEff = "";
+        htcheck.hurtAway = "hurt3";
+        htcheck.hurtBack = "hurt2";
+        htcheck.end_status = "";
+        htcheck.slowTime = 0;
+        htcheck.checkTimes = 1;
+        htcheck.d_rate = 0.2;
+        htcheck.flag = 1;
+        htcheck.g = 0;
+        htcheck.Vy = 0;
+        htcheck.a = 0;
+        htcheck.Vx = 0;
+        htcheck.freezeTime2 = 2;
+        htcheck.shake = 0;
+        htcheck.reCheck = true;
+    };
+    Chunli_sk_bailietui2.frame18 = function (mc) {
+        var htcheck = Hero_HitCheck.getInstance(mc);
+        htcheck.freezeTime = 1;
+        htcheck.isObj = false;
+        htcheck.hitPos = "";
+        htcheck.hitType = "hitFire1";
+        htcheck.hitShinning = false;
+        htcheck.hitEff = "";
+        htcheck.hurtAway = "hurt3";
+        htcheck.hurtBack = "hurt1";
+        htcheck.end_status = "";
+        htcheck.slowTime = 0;
+        htcheck.checkTimes = 1;
+        htcheck.d_rate = 0.2;
+        htcheck.flag = 1;
+        htcheck.g = 0;
+        htcheck.Vy = 0;
+        htcheck.a = 0;
+        htcheck.Vx = 0;
+        htcheck.freezeTime2 = 2;
+        htcheck.shake = 0;
+        htcheck.reCheck = true;
+    };
+    Chunli_sk_bailietui2.frame22 = function (mc) {
+        var htcheck = Hero_HitCheck.getInstance(mc);
+        htcheck.freezeTime = 1;
+        htcheck.isObj = false;
+        htcheck.hitPos = "";
+        htcheck.hitType = "hitFire1";
+        htcheck.hitShinning = false;
+        htcheck.hitEff = "";
+        htcheck.hurtAway = "hurt3";
+        htcheck.hurtBack = "hurt2";
+        htcheck.end_status = "";
+        htcheck.slowTime = 0;
+        htcheck.checkTimes = 1;
+        htcheck.d_rate = 0.2;
+        htcheck.flag = 1;
+        htcheck.g = 0;
+        htcheck.Vy = 0;
+        htcheck.a = 0;
+        htcheck.Vx = 0;
+        htcheck.freezeTime2 = 2;
+        htcheck.shake = 0;
+        htcheck.reCheck = true;
+    };
+    Chunli_sk_bailietui2.frame25 = function (mc) {
+        var htcheck = Hero_HitCheck.getInstance(mc);
+        htcheck.freezeTime = 1;
+        htcheck.isObj = false;
+        htcheck.hitPos = "";
+        htcheck.hitType = "hitFire1";
+        htcheck.hitShinning = false;
+        htcheck.hitEff = "";
+        htcheck.hurtAway = "hurt3";
+        htcheck.hurtBack = "hurt2";
+        htcheck.end_status = "";
+        htcheck.slowTime = 0;
+        htcheck.checkTimes = 1;
+        htcheck.d_rate = 0.2;
+        htcheck.flag = 1;
+        htcheck.g = 0;
+        htcheck.Vy = 0;
+        htcheck.a = 0;
+        htcheck.Vx = 0;
+        htcheck.freezeTime2 = 2;
+        htcheck.shake = 0;
+        htcheck.reCheck = true;
+    };
+    Chunli_sk_bailietui2.frame28 = function (mc) {
+        var htcheck = Hero_HitCheck.getInstance(mc);
+        htcheck.freezeTime = 1;
+        htcheck.isObj = false;
+        htcheck.hitPos = "";
+        htcheck.hitType = "hitFire1";
+        htcheck.hitShinning = false;
+        htcheck.hitEff = "";
+        htcheck.hurtAway = "hurt3";
+        htcheck.hurtBack = "hurt1";
+        htcheck.end_status = "";
+        htcheck.slowTime = 0;
+        htcheck.checkTimes = 1;
+        htcheck.d_rate = 0.2;
+        htcheck.flag = 1;
+        htcheck.g = 0;
+        htcheck.Vy = 0;
+        htcheck.a = 0;
+        htcheck.Vx = 0;
+        htcheck.freezeTime2 = 2;
+        htcheck.shake = 0;
+        htcheck.reCheck = true;
+    };
+    Chunli_sk_bailietui2.frame31 = function (mc) {
+        var htcheck = Hero_HitCheck.getInstance(mc);
+        htcheck.freezeTime = 1;
+        htcheck.isObj = false;
+        htcheck.hitPos = "";
+        htcheck.hitType = "hitFire1";
+        htcheck.hitShinning = false;
+        htcheck.hitEff = "";
+        htcheck.hurtAway = "hurt3";
+        htcheck.hurtBack = "hurt2";
+        htcheck.end_status = "";
+        htcheck.slowTime = 0;
+        htcheck.checkTimes = 1;
+        htcheck.d_rate = 0.2;
+        htcheck.flag = 1;
+        htcheck.g = 0;
+        htcheck.Vy = 0;
+        htcheck.a = 0;
+        htcheck.Vx = 0;
+        htcheck.freezeTime2 = 2;
+        htcheck.shake = 0;
+        htcheck.reCheck = true;
+    };
+    Chunli_sk_bailietui2.frame35 = function (mc) {
+        var htcheck = Hero_HitCheck.getInstance(mc);
+        htcheck.freezeTime = 1;
+        htcheck.isObj = false;
+        htcheck.hitPos = "";
+        htcheck.hitType = "hitFire1";
+        htcheck.hitShinning = false;
+        htcheck.hitEff = "";
+        htcheck.hurtAway = "hurt3";
+        htcheck.hurtBack = "hurt1";
+        htcheck.end_status = "";
+        htcheck.slowTime = 0;
+        htcheck.checkTimes = 1;
+        htcheck.d_rate = 0.2;
+        htcheck.flag = 1;
+        htcheck.g = 0;
+        htcheck.Vy = 0;
+        htcheck.a = 0;
+        htcheck.Vx = 0;
+        htcheck.freezeTime2 = 2;
+        htcheck.shake = 0;
+        htcheck.reCheck = true;
+    };
+    Chunli_sk_bailietui2.frame45 = function (mc) {
+        var htcheck = Hero_HitCheck.getInstance(mc);
+        htcheck.freezeTime = 4;
+        htcheck.isObj = false;
+        htcheck.hitPos = "";
+        htcheck.hitType = "hitFire1";
+        htcheck.hitShinning = false;
+        htcheck.hitEff = "";
+        htcheck.hurtAway = "hurt3";
+        htcheck.hurtBack = "";
+        htcheck.end_status = "";
+        htcheck.slowTime = 0;
+        htcheck.checkTimes = 1;
+        htcheck.d_rate = 0.2;
+        htcheck.flag = 1;
+        htcheck.g = 0;
+        htcheck.Vy = 25;
+        htcheck.a = 0;
+        htcheck.Vx = 30;
+        htcheck.freezeTime2 = 0;
+        htcheck.shake = 3;
+        htcheck.reCheck = true;
+    };
+    Chunli_sk_bailietui2.frame63 = function (mc) {
+        var _parentRole = EventUtil.getRole_Parent(mc);
+        if (_parentRole == null) {
+            return;
+        }
+        _parentRole.toStatus_switch("stand");
+    };
+    return Chunli_sk_bailietui2;
+}());
+__reflect(Chunli_sk_bailietui2.prototype, "Chunli_sk_bailietui2");
+//# sourceMappingURL=Chunli_sk_bailietui2.js.map

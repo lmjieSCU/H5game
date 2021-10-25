@@ -1,0 +1,46 @@
+{"mc":{
+	"candybomb":{
+		"frameRate":24,
+		"labels":[
+			{"name":"bomb","frame":1,"end":5}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"candybomb_01_png",
+			"x":23,
+			"y":23
+			},
+			{
+			"res":"candybomb_02_png",
+			"x":21,
+			"y":22
+			},
+			{
+			"res":"candybomb_03_png",
+			"x":13,
+			"y":12
+			},
+			{
+			"res":"candybomb_04_png",
+			"x":8,
+			"y":6
+			},
+			{
+			"res":"candybomb_05_png",
+			"x":6,
+			"y":4
+			}
+			]
+}},
+	"res":{
+		"candybomb_05_png":{"x":1,"y":1,"w":88,"h":88},
+		"candybomb_01_png":{"x":91,"y":88,"w":51,"h":51},
+		"candybomb_02_png":{"x":178,"y":78,"w":58,"h":57},
+		"candybomb_03_png":{"x":178,"y":1,"w":75,"h":75},
+		"candybomb_04_png":{"x":91,"y":1,"w":85,"h":85}
+	}}

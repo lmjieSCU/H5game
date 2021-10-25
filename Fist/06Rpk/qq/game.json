@@ -1,0 +1,29 @@
+{
+  "deviceOrientation": "landscape",
+  "networkTimeout": {
+    "request": 5000,
+    "connectSocket": 5000,
+    "uploadFile": 5000,
+    "downloadFile": 5000
+  },
+  "subpackages": [
+    {
+      "name": "fightui",
+      "root": "subpackages/ui/fightui"
+    },{
+      "name": "effects",
+      "root": "subpackages/heros/effects"
+    },{
+      "name": "roleK",
+      "root": "subpackages/heros/roleK"
+    },{
+      "name": "roleRyu",
+      "root": "subpackages/heros/roleRyu"
+    },{
+      "name": "roleChunli",
+      "root": "subpackages/heros/roleChunli"
+    }
+    ],
+  "openDataContext": "openDataContext",
+  "plugins": {}
+}

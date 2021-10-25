@@ -1,0 +1,11 @@
+{"file":"glevel.png","frames":{
+"0":{"x":0,"y":0,"w":23,"h":26,"offX":3,"offY":1,"sourceW":27,"sourceH":28},
+"1":{"x":38,"y":53,"w":15,"h":26,"offX":7,"offY":1,"sourceW":27,"sourceH":28},
+"2":{"x":20,"y":53,"w":18,"h":26,"offX":5,"offY":1,"sourceW":27,"sourceH":28},
+"3":{"x":20,"y":26,"w":19,"h":27,"offX":5,"offY":1,"sourceW":27,"sourceH":28},
+"4":{"x":0,"y":82,"w":21,"h":26,"offX":3,"offY":1,"sourceW":27,"sourceH":28},
+"5":{"x":23,"y":0,"w":18,"h":26,"offX":4,"offY":1,"sourceW":27,"sourceH":28},
+"6":{"x":0,"y":54,"w":20,"h":28,"offX":3,"offY":0,"sourceW":27,"sourceH":28},
+"7":{"x":41,"y":82,"w":20,"h":26,"offX":3,"offY":1,"sourceW":27,"sourceH":28},
+"8":{"x":21,"y":82,"w":20,"h":27,"offX":3,"offY":1,"sourceW":27,"sourceH":28},
+"9":{"x":0,"y":26,"w":20,"h":28,"offX":3,"offY":0,"sourceW":27,"sourceH":28}}}

@@ -1,0 +1,4 @@
+stop();
+setKey();
+loadOption();
+loadKey();

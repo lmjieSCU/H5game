@@ -1,0 +1,191 @@
+{
+    "resourcePlugin": {
+        "configs": [
+            {
+                "configPath": "resource/default.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/default.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/heros/hero_didala/hero_didala.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/heros/hero_byakuya/hero_byakuya.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/heros/hero_chad/hero_chad.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/heros/hero_gaara/hero_gaara.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/heros/hero_ichigo_1/hero_ichigo_1.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/heros/hero_ikkaku/hero_ikkaku.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/heros/hero_juggo/hero_juggo.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/heros/hero_kakashi/hero_kakashi.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/heros/hero_killerbee/hero_killerbee.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/heros/hero_konan/hero_konan.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/heros/hero_lee_2/hero_lee_2.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/heros/hero_lee/hero_lee.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/heros/hero_mayuri/hero_mayuri.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/heros/hero_naruto_2/hero_naruto_2.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/heros/hero_naruto_3/hero_naruto_3.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/heros/hero_nazi/hero_nazi.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/heros/hero_neji/hero_neji.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/heros/hero_obito_2/hero_obito_2.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/heros/hero_obito/hero_obito.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/heros/hero_orihime/hero_orihime.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/heros/hero_rukia/hero_rukia.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/heros/hero_pain/hero_pain.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/heros/hero_renji/hero_renji.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/heros/hero_sakura/hero_sakura.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/heros/hero_sasuke_xz/hero_sasuke_xz.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/heros/hero_uryuu/hero_uryuu.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/heros/hero_xubai/hero_xubai.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/heros/hero_yin/hero_yin.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/heros/hero_naruto_2/hero_naruto_2.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/heros/hero_naruto_3/hero_naruto_3.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/hero_kakashi/hero_kakashi.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/hero_sakura/hero_sakura.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/hero_rukia/hero_rukia.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/N_hero_uryuu/hero_uryuu_sele/hero_uryuu_sele.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/N_hero_sasuke_xz/hero_sasuke_xz_sele/hero_sasuke_xz_sele.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/N_hero_sakura/hero_sakura_sele/hero_sakura_sele.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/N_hero_pain/hero_pain_sele/hero_pain_sele.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/N_hero_killerbee/hero_killerbee_sele/hero_killerbee_sele.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/N_hero_karin/hero_karin_sele/hero_karin_sele.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/N_hero_kakashi/hero_kakashi_sele/hero_kakashi_sele.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/N_hero_didala/hero_didala_sele/hero_didala_sele.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/hero_obito/hero_obito_sele/hero_obito_sele.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/N_hero_nazi/hero_nazi_sele/hero_nazi_sele.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/assets/N_hero_rukia/hero_rukia_sele/hero_rukia_sele.res.json",
+                "relativePath": "resource/"
+            }
+        ]
+    },
+    "theme": "resource/default.thm.json"
+}

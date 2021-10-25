@@ -1,0 +1,39 @@
+{
+  "engineVersion": "5.2.28",
+  "compilerVersion": "5.2.28",
+  "template": {},
+  "target": {
+    "current": "web"
+  },
+  "modules": [
+    {
+      "name": "egret"
+    },
+    {
+      "name": "game"
+    },
+    {
+      "name": "tween"
+    },
+    {
+      "name": "assetsmanager"
+    },
+    {
+      "name": "socket"
+    },
+    {
+      "name": "promise"
+    },
+    {
+      "name": "keyboard",
+      "path":"libs/keyboard"
+    }
+  ],
+  "targets": {
+    "android": {
+      "appname": "冰雪公主换装记",
+      "packagename": "com.cracy.icegirl"
+    }
+  }
+  
+}

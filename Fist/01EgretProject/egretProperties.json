@@ -1,0 +1,47 @@
+{
+  "engineVersion": "5.2.28",
+  "compilerVersion": "5.2.28",
+  "template": {},
+  "target": {
+    "current": "web"
+  },
+  "modules": [
+    {
+      "name": "egret"
+    },
+    {
+      "name": "game"
+    },
+    {
+      "name": "tween"
+    },
+    {
+      "name": "assetsmanager"
+    },
+    {
+      "name": "socket"
+    },
+    {
+      "name": "promise"
+    },
+    {
+      "name": "keyboard",
+      "path": "libs/keyboard"
+    },
+    {
+      "name": "MGOBE",
+      "path": "libs/MGOBE"
+    }
+  ],
+  "targets": {
+    "android": {
+      "appname": "羽毛球高手",
+      "packagename": "com.feefee.badminton.vivominigame"
+    },
+    "ios": {
+      "appname": "hello",
+      "packagename": "com.companyname",
+      "hybrid": false
+    }
+  }
+}

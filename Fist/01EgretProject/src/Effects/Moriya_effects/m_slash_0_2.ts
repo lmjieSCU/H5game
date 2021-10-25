@@ -1,0 +1,17 @@
+class m_slash_0_2{
+	public static addSprite11430(mc: zmovie.ZMovieClip, own_role: Role) {
+		mc.addFrameScript(mc, [1,m_slash_0_2.frame1,8,m_slash_0_2.frame8]);
+		return;
+	}
+	public static frame1(mc:zmovie.ZMovieClip){
+        //_level0.effect_mc.fgEff_start("fgEff_black");
+	}
+
+
+	public static frame8(mc:zmovie.ZMovieClip){
+        //_level0.effect_mc.fgEff_start("");
+		mc.parent.removeChild(mc);
+	}
+}
+
+

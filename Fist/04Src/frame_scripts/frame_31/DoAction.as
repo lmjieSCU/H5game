@@ -1,0 +1,2 @@
+stop();
+demo_init();

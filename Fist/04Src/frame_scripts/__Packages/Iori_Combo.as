@@ -1,0 +1,130 @@
+class Iori_Combo extends role_corn.Combo_listener
+{
+   function Iori_Combo(r)
+   {
+      super();
+      this.role = r;
+      this.init();
+   }
+   function init()
+   {
+      this.combo1 = new Object();
+      this.combo1.sk1_1 = {punch:"sk1_2",punch_l:"sk1_2",sk1_1:"sk1_2"};
+      this.combo1.sk1_2 = {punch:"sk1_3",punch_l:"sk1_3",sk1_1:"sk1_3"};
+      this.combo1.squatPunch_l = {punch:"sk1_1",punch_l:"sk1_1",sk1_1:"sk1_1"};
+      this.combo1.sk1_2 = {punch:"sk1_3",punch_l:"sk1_3",sk1_1:"sk1_3"};
+      this.combo1.sk_s1 = {sk_s_caihua0:"sk_s_caihua"};
+      this.combo2 = new Object();
+      this.combo2.punch = 9;
+      this.combo2.punch2 = 7;
+      this.combo2.punch_s1 = 8;
+      this.combo2.punch_s2 = 8;
+      this.combo2.kick = 10;
+      this.combo2.kick2 = 8;
+      this.combo2.kick_s1 = 13;
+      this.combo2.kick_s2 = 6;
+      this.combo2.punch_l = 6;
+      this.combo2.kick_l = 7;
+      this.combo2.squatPunch_l = 5;
+      this.combo2.squatKick_l = 5;
+      this.combo2.squatPunch = 7;
+      this.combo2.heavyHit = 7;
+      this.combo2.sk1_1 = 9;
+      this.combo2.sk1_2 = 9;
+      this.combo2.sk2 = 8;
+      this.combo2.sk_YJue = 9;
+      this.combo2.sk_YTao = 9;
+      this.combo2.sk_CYue = 12;
+      this.combo2.sk_MNiao = 16;
+      this.combo2.sk_hang = 13;
+      this.combo2.sk0 = 5;
+      this.combo2.sk_s1 = 86;
+      this.combo2.sk_s1xiii = 86;
+      this.combo2.sk_s2 = 188;
+      this.combo2.sk_s_caihua = 42;
+      this.combo2.sk_s1_s = 162;
+      this.skill_over = new Object();
+      this.skill_over.punch = 10;
+      this.skill_over.punch2 = 9;
+      this.skill_over.kick = 10;
+      this.skill_over.kick1 = 13;
+      this.skill_over.kick2 = 10;
+      this.skill_over.squatKick = 10;
+      this.skill_over.heavyHit = 11;
+      this.skill_over.sk1_1 = 10;
+      this.skill_over.sk1_2 = 8;
+      this.skill_over.sk1_3 = 11;
+      this.skill_over.sk0 = 5;
+      this.skill_over.sk2 = 18;
+      this.skill_over.sk3 = 51;
+      this.skill_over.sk_YJue = 31;
+      this.skill_over.sk_YTao = 12;
+      this.skill_over.sk_CYue = 20;
+      this.skill_over.sk_CChun = 34;
+      this.skill_over.sk_MNiao = 19;
+      this.skill_over.sk_hang = 16;
+      this.skill_over.sk_s1 = 108;
+      this.skill_over.sk_s1_s = 100;
+      this.skill_over.sk_s1xiii = 90;
+      this.skill_over.sk_s1_s1 = 202;
+      this.skill_over.sk_s_caihua = 53;
+      this.skill_over.sk_s_caihua_s = 65;
+      this.skill_over.sk_s_qianzai1 = 28;
+      this.skill_over.sk_s_qianzai2 = 21;
+      this.skill_over.sk_s_89b = 70;
+      this.skill_over.sk_s_89b_s = 70;
+      this.skill_over.sk_s_zhuangqiang = 197;
+      this.skill_over.sk_s_3shenji2 = 27;
+      this.beCancled = new Object();
+      this.beCancled.punch = 1;
+      this.beCancled.punch2 = 1;
+      this.beCancled.punch_s1 = 1;
+      this.beCancled.punch_s2 = 1;
+      this.beCancled.punch_l = 1;
+      this.beCancled.kick = 1;
+      this.beCancled.kick2 = 1;
+      this.beCancled.kick_s1 = 1;
+      this.beCancled.kick_s2 = 1;
+      this.beCancled.kick_l = 1;
+      this.beCancled.squatPunch = 1;
+      this.beCancled.squatPunch_l = 1;
+      this.beCancled.squatKick_l = 1;
+      this.beCancled.sk_MNiao = 19;
+      this.notTOcancle = new Object();
+      this.notTOcancle.punch = 1;
+      this.notTOcancle.punch2 = 1;
+      this.notTOcancle.punch_s1 = 1;
+      this.notTOcancle.punch_l = 1;
+      this.notTOcancle.kick = 1;
+      this.notTOcancle.kick_l = 1;
+      this.notTOcancle.kick_s2 = 1;
+      this.notTOcancle.squatPunch = 1;
+      this.notTOcancle.squatPunch_l = 1;
+      this.notTOcancle.squatKick_l = 1;
+      this.notTOcancle.squatKick = 1;
+      this.notTOcancle.pitch = 1;
+      this.s_cancle = new Object();
+      this.s_cancle.punch_s1 = {punch_s2:1};
+      this.s_cancle.kick_s2 = {punch_l:1,punch_s1:1,punch:1};
+      this.s_cancle.punch2 = {punch_s1:1};
+      this.s_cancle.sk_s1 = {sk_s_caihua0:1,sk_s_caihua:1};
+      this.s_cancle.sk_s1_s = {sk_s_caihua0:1,sk_s_caihua:1};
+      this.s_cancle.punch_l = {kick_l:1,squatPunch_l:1,squatKick_l:1,punch:1,kick:1,punch_s1:1};
+      this.s_cancle.kick_l = {punch:1,kick:1,punch_s1:1};
+      this.s_cancle.squatPunch_l = {punch_l:1,kick_l:1,squatKick_l:1,punch:1,kick:1,squatPunch:1,squatKick:1,punch_s1:1};
+      this.s_cancle.squatKick_l = {punch_l:1,kick_l:1,punch:1,kick:1,squatPunch:1,squatKick:1,punch_s1:1};
+      if(this.role.roleMode == 3)
+      {
+         trace("暴走状态");
+         this.combo2.sk0 = 5;
+         this.combo2.sk_s1 = 146;
+         this.combo2.sk_s2 = 60;
+         this.skill_over.sk_s1 = 158;
+         this.skill_over.sk_s1_s = 185;
+         this.skill_over.sk_s2 = 6;
+         this.skill_over.sk_s2_s = 6;
+         this.skill_over.sk_s_qianzai1 = 128;
+         this.skill_over.sk_s_qianzai2 = 54;
+      }
+   }
+}

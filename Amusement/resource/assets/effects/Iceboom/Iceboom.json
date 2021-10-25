@@ -1,0 +1,40 @@
+{"mc":{
+	"Bomb":{
+		"frameRate":24,
+		"labels":[
+			{"name":"Bomb","frame":1,"end":4}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"iceboom_01_png",
+			"x":18,
+			"y":20
+			},
+			{
+			"res":"iceboom_02_png",
+			"x":13,
+			"y":16
+			},
+			{
+			"res":"iceboom_03_png",
+			"x":5,
+			"y":0
+			},
+			{
+			"res":"iceboom_04_png",
+			"x":0,
+			"y":13
+			}
+			]
+}},
+	"res":{
+		"iceboom_02_png":{"x":56,"y":47,"w":36,"h":34},
+		"iceboom_04_png":{"x":56,"y":1,"w":60,"h":44},
+		"iceboom_03_png":{"x":1,"y":1,"w":53,"h":52},
+		"iceboom_01_png":{"x":94,"y":47,"w":27,"h":26}
+	}}

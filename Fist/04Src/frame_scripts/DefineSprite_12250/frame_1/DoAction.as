@@ -1,0 +1,5 @@
+function startGame()
+{
+   play();
+}
+stop();

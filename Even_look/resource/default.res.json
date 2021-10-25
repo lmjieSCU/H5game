@@ -1,0 +1,280 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,focus_png,Fruit_json,Fruit_png,combo10_png,combo2_png,combo3_png,combo4_png,combo5_png,combo6_png,combo7_png,combo8_png,combo9_png,angle_png,line_png,stage_png,stage1_png,stage10_png,stage2_png,stage3_png,stage4_png,stage5_png,stage6_png,stage7_png,stage8_png,stage9_png,boom_png,coin_png,controlbar_png,find_png,refresh_png,grid_bg_png,bg_png,defail_png,exit_png,init_png,next_png,pass_png,return_png,changebtn_png,levelbtnbg_png,locked_png,combo1_png,star_png,fivepoint_png,pause_png,restart_png,help_png,login_png,cancel_png,musicSwitch_png,musicSwitchOff_png,onestar_png,twostar_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "focus_png",
+			"type": "image",
+			"url": "assets/GameScene/Cell/focus.png"
+		},
+		{
+			"name": "Fruit_json",
+			"type": "json",
+			"url": "assets/GameScene/Cell/Fruit.json"
+		},
+		{
+			"name": "Fruit_png",
+			"type": "image",
+			"url": "assets/GameScene/Cell/Fruit.png"
+		},
+		{
+			"name": "combo10_png",
+			"type": "image",
+			"url": "assets/GameScene/Effects/CombEffect/combo10.png"
+		},
+		{
+			"name": "combo2_png",
+			"type": "image",
+			"url": "assets/GameScene/Effects/CombEffect/combo2.png"
+		},
+		{
+			"name": "combo3_png",
+			"type": "image",
+			"url": "assets/GameScene/Effects/CombEffect/combo3.png"
+		},
+		{
+			"name": "combo4_png",
+			"type": "image",
+			"url": "assets/GameScene/Effects/CombEffect/combo4.png"
+		},
+		{
+			"name": "combo5_png",
+			"type": "image",
+			"url": "assets/GameScene/Effects/CombEffect/combo5.png"
+		},
+		{
+			"name": "combo6_png",
+			"type": "image",
+			"url": "assets/GameScene/Effects/CombEffect/combo6.png"
+		},
+		{
+			"name": "combo7_png",
+			"type": "image",
+			"url": "assets/GameScene/Effects/CombEffect/combo7.png"
+		},
+		{
+			"name": "combo8_png",
+			"type": "image",
+			"url": "assets/GameScene/Effects/CombEffect/combo8.png"
+		},
+		{
+			"name": "combo9_png",
+			"type": "image",
+			"url": "assets/GameScene/Effects/CombEffect/combo9.png"
+		},
+		{
+			"name": "angle_png",
+			"type": "image",
+			"url": "assets/GameScene/Effects/GridEffect/angle.png"
+		},
+		{
+			"name": "line_png",
+			"type": "image",
+			"url": "assets/GameScene/Effects/GridEffect/line.png"
+		},
+		{
+			"name": "stage_png",
+			"type": "image",
+			"url": "assets/GameScene/Effects/StageEffect/stage.png"
+		},
+		{
+			"name": "stage1_png",
+			"type": "image",
+			"url": "assets/GameScene/Effects/StageEffect/stage1.png"
+		},
+		{
+			"name": "stage10_png",
+			"type": "image",
+			"url": "assets/GameScene/Effects/StageEffect/stage10.png"
+		},
+		{
+			"name": "stage2_png",
+			"type": "image",
+			"url": "assets/GameScene/Effects/StageEffect/stage2.png"
+		},
+		{
+			"name": "stage3_png",
+			"type": "image",
+			"url": "assets/GameScene/Effects/StageEffect/stage3.png"
+		},
+		{
+			"name": "stage4_png",
+			"type": "image",
+			"url": "assets/GameScene/Effects/StageEffect/stage4.png"
+		},
+		{
+			"name": "stage5_png",
+			"type": "image",
+			"url": "assets/GameScene/Effects/StageEffect/stage5.png"
+		},
+		{
+			"name": "stage6_png",
+			"type": "image",
+			"url": "assets/GameScene/Effects/StageEffect/stage6.png"
+		},
+		{
+			"name": "stage7_png",
+			"type": "image",
+			"url": "assets/GameScene/Effects/StageEffect/stage7.png"
+		},
+		{
+			"name": "stage8_png",
+			"type": "image",
+			"url": "assets/GameScene/Effects/StageEffect/stage8.png"
+		},
+		{
+			"name": "stage9_png",
+			"type": "image",
+			"url": "assets/GameScene/Effects/StageEffect/stage9.png"
+		},
+		{
+			"name": "boom_png",
+			"type": "image",
+			"url": "assets/GameScene/FightUI/boom.png"
+		},
+		{
+			"name": "coin_png",
+			"type": "image",
+			"url": "assets/GameScene/FightUI/coin.png"
+		},
+		{
+			"name": "controlbar_png",
+			"type": "image",
+			"url": "assets/GameScene/FightUI/controlbar.png"
+		},
+		{
+			"name": "find_png",
+			"type": "image",
+			"url": "assets/GameScene/FightUI/find.png"
+		},
+		{
+			"name": "refresh_png",
+			"type": "image",
+			"url": "assets/GameScene/FightUI/refresh.png"
+		},
+		{
+			"name": "grid_bg_png",
+			"type": "image",
+			"url": "assets/GameScene/Grid/grid_bg.png"
+		},
+		{
+			"name": "bg_png",
+			"type": "image",
+			"url": "assets/GameScene/Layers/bg.png"
+		},
+		{
+			"name": "defail_png",
+			"type": "image",
+			"url": "assets/GameScene/Layers/defail.png"
+		},
+		{
+			"name": "exit_png",
+			"type": "image",
+			"url": "assets/GameScene/Layers/exit.png"
+		},
+		{
+			"name": "init_png",
+			"type": "image",
+			"url": "assets/GameScene/Layers/init.png"
+		},
+		{
+			"name": "next_png",
+			"type": "image",
+			"url": "assets/GameScene/Layers/next.png"
+		},
+		{
+			"name": "pass_png",
+			"type": "image",
+			"url": "assets/GameScene/Layers/pass.png"
+		},
+		{
+			"name": "return_png",
+			"type": "image",
+			"url": "assets/GameScene/Layers/return.png"
+		},
+		{
+			"name": "changebtn_png",
+			"type": "image",
+			"url": "assets/ChooseScene/changebtn.png"
+		},
+		{
+			"name": "levelbtnbg_png",
+			"type": "image",
+			"url": "assets/ChooseScene/levelbtnbg.png"
+		},
+		{
+			"name": "locked_png",
+			"type": "image",
+			"url": "assets/ChooseScene/locked.png"
+		},
+		{
+			"name": "combo1_png",
+			"type": "image",
+			"url": "assets/GameScene/Effects/CombEffect/combo1.png"
+		},
+		{
+			"name": "star_png",
+			"type": "image",
+			"url": "assets/ChooseScene/star.png"
+		},
+		{
+			"name": "fivepoint_png",
+			"type": "image",
+			"url": "assets/GameScene/Effects/GridEffect/fivepoint.png"
+		},
+		{
+			"name": "pause_png",
+			"type": "image",
+			"url": "assets/GameScene/Layers/pause.png"
+		},
+		{
+			"name": "restart_png",
+			"type": "image",
+			"url": "assets/GameScene/Layers/restart.png"
+		},
+		{
+			"name": "help_png",
+			"type": "image",
+			"url": "assets/GameScene/Layers/help.png"
+		},
+		{
+			"name": "login_png",
+			"type": "image",
+			"url": "assets/initScene/login.png"
+		},
+		{
+			"name": "cancel_png",
+			"type": "image",
+			"url": "assets/initScene/cancel.png"
+		},
+		{
+			"name": "musicSwitch_png",
+			"type": "image",
+			"url": "assets/GameScene/Layers/musicSwitch.png"
+		},
+		{
+			"name": "musicSwitchOff_png",
+			"type": "image",
+			"url": "assets/GameScene/Layers/musicSwitchOff.png"
+		},
+		{
+			"name": "onestar_png",
+			"type": "image",
+			"url": "assets/GameScene/Layers/onestar.png"
+		},
+		{
+			"name": "twostar_png",
+			"type": "image",
+			"url": "assets/GameScene/Layers/twostar.png"
+		}
+	]
+}

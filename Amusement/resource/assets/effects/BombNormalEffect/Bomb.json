@@ -1,0 +1,40 @@
+{"mc":{
+	"Bomb":{
+		"frameRate":24,
+		"labels":[
+			{"name":"bomb","frame":1,"end":4}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"boomcommon_01_png",
+			"x":15,
+			"y":14
+			},
+			{
+			"res":"boomcommon_02_png",
+			"x":11,
+			"y":10
+			},
+			{
+			"res":"boomcommon_03_png",
+			"x":7,
+			"y":6
+			},
+			{
+			"res":"boomcommon_04_png",
+			"x":9,
+			"y":8
+			}
+			]
+}},
+	"res":{
+		"boomcommon_04_png":{"x":1,"y":41,"w":32,"h":32},
+		"boomcommon_01_png":{"x":40,"y":1,"w":21,"h":22},
+		"boomcommon_02_png":{"x":35,"y":41,"w":28,"h":29},
+		"boomcommon_03_png":{"x":1,"y":1,"w":37,"h":38}
+	}}

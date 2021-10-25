@@ -1,0 +1,64 @@
+{"mc":{
+	"e_current":{
+		"frameRate":24,
+		"labels":[
+			{"name":"curr","frame":1,"end":8}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"e_current00_png",
+			"x":90,
+			"y":91
+			},
+			{
+			"res":"e_current01_png",
+			"x":80,
+			"y":81
+			},
+			{
+			"res":"e_current02_png",
+			"x":70,
+			"y":71
+			},
+			{
+			"res":"e_current03_png",
+			"x":61,
+			"y":62
+			},
+			{
+			"res":"e_current04_png",
+			"x":54,
+			"y":55
+			},
+			{
+			"res":"e_current05_png",
+			"x":48,
+			"y":49
+			},
+			{
+			"res":"e_current06_png",
+			"x":43,
+			"y":43
+			},
+			{
+			"res":"e_current07_png",
+			"x":38,
+			"y":38
+			}
+			]
+}},
+	"res":{
+		"e_current07_png":{"x":1,"y":1,"w":172,"h":173},
+		"e_current06_png":{"x":175,"y":1,"w":162,"h":163},
+		"e_current00_png":{"x":91,"y":285,"w":68,"h":67},
+		"e_current01_png":{"x":1,"y":285,"w":88,"h":87},
+		"e_current02_png":{"x":1,"y":176,"w":108,"h":107},
+		"e_current04_png":{"x":339,"y":154,"w":140,"h":139},
+		"e_current03_png":{"x":175,"y":166,"w":126,"h":125},
+		"e_current05_png":{"x":339,"y":1,"w":152,"h":151}
+	}}

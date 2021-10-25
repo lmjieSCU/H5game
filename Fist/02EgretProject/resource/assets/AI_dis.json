@@ -1,0 +1,162 @@
+{
+        "LV1": {
+                "combo_rate0": 50,
+                "attack_rate0": 50,
+                "hold_rate0": 50,
+                "attack_s0": 50,
+                "wait_frame0": 450,
+                "combo_risk": 450,
+                "skill_rate0": 0,
+                "strength": false
+        },
+        "LV2": {
+                "combo_rate0": 50,
+                "attack_rate0": 100,
+                "hold_rate0": 50,
+                "attack_s0": 50,
+                "wait_frame0": 400,
+                "combo_risk": 400,
+                "skill_rate0": 0,
+                "strength": false
+        },
+        "LV3": {
+                "combo_rate0": 50,
+                "attack_rate0": 100,
+                "hold_rate0": 50,
+                "attack_s0": 50,
+                "wait_frame0": 350,
+                "combo_risk": 300,
+                "skill_rate0": 50,
+                "strength": false
+        },
+        "LV4": {
+                "combo_rate0": 100,
+                "attack_rate0": 100,
+                "hold_rate0": 100,
+                "attack_s0": 100,
+                "wait_frame0": 300,
+                "combo_risk": 250,
+                "skill_rate0": 100,
+                "strength": false
+        },
+        "LV5": {
+                "combo_rate0": 100,
+                "attack_rate0": 100,
+                "hold_rate0": 100,
+                "attack_s0": 100,
+                "wait_frame0": 250,
+                "combo_risk": 200,
+                "skill_rate0": 200,
+                "strength": false
+        },
+        "LV6": {
+                "combo_rate0": 100,
+                "attack_rate0": 100,
+                "hold_rate0": 100,
+                "attack_s0": 100,
+                "wait_frame0": 150,
+                "combo_risk": 150,
+                "skill_rate0": 300,
+                "strength": false
+        },
+        "LV7": {
+                "combo_rate0": 100,
+                "attack_rate0": 100,
+                "hold_rate0": 100,
+                "attack_s0": 100,
+                "wait_frame0": 100,
+                "combo_risk": 100,
+                "skill_rate0": 400,
+                "strength": false
+        },
+        "LV8": {
+                "combo_rate0": 300,
+                "attack_rate0": 300,
+                "hold_rate0": 250,
+                "attack_s0": 250,
+                "wait_frame0": 100,
+                "combo_risk": 50,
+                "skill_rate0": 400,
+                "strength": false
+        },
+        "LV9": {
+                "combo_rate0": 200,
+                "attack_rate0": 200,
+                "hold_rate0": 150,
+                "attack_s0": 100,
+                "wait_frame0": 100,
+                "combo_risk": 100,
+                "skill_rate0": 400,
+                "strength": true
+        },
+        "LV10": {
+                "combo_rate0": 300,
+                "attack_rate0": 250,
+                "hold_rate0": 250,
+                "attack_s0": 250,
+                "wait_frame0": 100,
+                "combo_risk": 100,
+                "skill_rate0": 400,
+                "strength": false
+        },
+        "LV11": {
+                "combo_rate0": 300,
+                "attack_rate0": 350,
+                "hold_rate0": 350,
+                "attack_s0": 350,
+                "wait_frame0": 100,
+                "combo_risk": 100,
+                "skill_rate0": 500,
+                "strength": false
+        },
+        "LV12": {
+                "combo_rate0": 450,
+                "attack_rate0": 500,
+                "hold_rate0": 500,
+                "attack_s0": 500,
+                "wait_frame0": 0,
+                "combo_risk": 0,
+                "skill_rate0": 500,
+                "strength": false
+        },
+        "LV13": {
+                "combo_rate0": 300,
+                "attack_rate0": 500,
+                "hold_rate0": 500,
+                "attack_s0": 500,
+                "wait_frame0": 70,
+                "combo_risk": 60,
+                "skill_rate0": 500,
+                "strength": true
+        },
+        "LV14": {
+                "combo_rate0": 400,
+                "attack_rate0": 500,
+                "hold_rate0": 500,
+                "attack_s0": 500,
+                "wait_frame0": 50,
+                "combo_risk": 30,
+                "skill_rate0": 500,
+                "strength": true
+        },
+        "LV15": {
+                "combo_rate0": 450,
+                "attack_rate0": 500,
+                "hold_rate0": 500,
+                "attack_s0": 500,
+                "wait_frame0": 0,
+                "combo_risk": 0,
+                "skill_rate0": 500,
+                "strength": true
+        },
+        "LV16": {
+                "combo_rate0": 500,
+                "attack_rate0": 500,
+                "hold_rate0": 500,
+                "attack_s0": 500,
+                "wait_frame0": 0,
+                "combo_risk": 0,
+                "skill_rate0": 500,
+                "strength": true
+        }
+}

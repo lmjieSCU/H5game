@@ -1,0 +1,20 @@
+if(window.requirePlugin){
+  requirePlugin("egret-library/egret.js");
+  requirePlugin("egret-library/game.js");
+  requirePlugin("egret-library/tween.js");
+  requirePlugin("egret-library/assetsmanager.js");
+  requirePlugin("egret-library/socket.js");
+}else{
+  require("egret-library/egret.js");
+  require("egret-library/game.js");
+  require("egret-library/tween.js");
+  require("egret-library/assetsmanager.js");
+  require("egret-library/socket.js");
+}
+require("./js/keyboard.js");
+require("./js/egret_4399_h5api.js");
+require("./js/game.js");
+require("./js/main.min.js");
+require("./js/egret.min.js");
+require("./js/assetsmanager.min.js");
+require("./js/game.min.js");

@@ -1,0 +1,167 @@
+var __reflect = (this && this.__reflect) || function (p, c, t) {
+    p.__class__ = c, t ? t.push(c) : t = [c], p.__types__ = p.__types__ ? t.concat(p.__types__) : t;
+};
+var kula_hit_m5 = (function () {
+    function kula_hit_m5() {
+    }
+    kula_hit_m5.addSprite19806 = function (mc, own_role) {
+        mc.addFrameScript(mc, [1, kula_hit_m5.frame1, 2, kula_hit_m5.frame2, 17, kula_hit_m5.frame17, 20, kula_hit_m5.frame20, 23, kula_hit_m5.frame23, 26, kula_hit_m5.frame26, 29, kula_hit_m5.frame29, 32, kula_hit_m5.frame32, 41, kula_hit_m5.frame41]);
+        mc["own_role"] = own_role;
+        return;
+    };
+    kula_hit_m5.frame1 = function (mc) {
+        // numMax = 20;
+        // color1 = "ice1";
+        // color2 = "ice1";
+        mc.visible = false;
+    };
+    kula_hit_m5.frame2 = function (mc) {
+        mc.visible = true;
+    };
+    kula_hit_m5.frame17 = function (mc) {
+        var htcheck = Hero_HitCheck.getInstance(mc);
+        htcheck.hurtBack = "hurt1";
+        htcheck.hurtAway = "hurt2";
+        htcheck.flag = 1;
+        htcheck.end_status = "";
+        htcheck.Vx = 0;
+        htcheck.Vy = 30;
+        htcheck.a = 3;
+        htcheck.g = 0;
+        htcheck.freezeTime2 = 0;
+        htcheck.freezeTime = 0;
+        htcheck.slowTime = 0;
+        htcheck.shake = 0;
+        htcheck.d_rate = 0.5;
+        htcheck.isObj = true;
+        htcheck.hitType = "hitFire1";
+        htcheck.hitEff = "hitEff_ice1";
+        htcheck.hitShinning = false;
+        htcheck.reCheck = true;
+        htcheck.checkTimes = 1;
+        htcheck.hitPos = "";
+        mc.x = mc["own_role"].opp.x;
+        mc.y = mc["own_role"].y - 70;
+    };
+    kula_hit_m5.frame20 = function (mc) {
+        var htcheck = Hero_HitCheck.getInstance(mc);
+        htcheck.hurtBack = "hurt2";
+        htcheck.hurtAway = "hurt2";
+        htcheck.flag = 1;
+        htcheck.end_status = "";
+        htcheck.Vx = 0;
+        htcheck.Vy = 30;
+        htcheck.a = 3;
+        htcheck.g = 0;
+        htcheck.freezeTime2 = 0;
+        htcheck.freezeTime = 0;
+        htcheck.slowTime = 0;
+        htcheck.shake = 0;
+        htcheck.d_rate = 0.5;
+        htcheck.isObj = true;
+        htcheck.hitType = "hitFire1";
+        htcheck.hitEff = "hitEff_ice1";
+        htcheck.hitShinning = false;
+        htcheck.reCheck = true;
+        htcheck.checkTimes = 1;
+        htcheck.hitPos = "";
+    };
+    kula_hit_m5.frame23 = function (mc) {
+        var htcheck = Hero_HitCheck.getInstance(mc);
+        htcheck.hurtBack = "hurt2";
+        htcheck.hurtAway = "hurt2";
+        htcheck.flag = 1;
+        htcheck.end_status = "";
+        htcheck.Vx = 0;
+        htcheck.Vy = 30;
+        htcheck.a = 3;
+        htcheck.g = 0;
+        htcheck.freezeTime2 = 0;
+        htcheck.freezeTime = 0;
+        htcheck.slowTime = 0;
+        htcheck.shake = 0;
+        htcheck.d_rate = 0.5;
+        htcheck.isObj = true;
+        htcheck.hitType = "hitFire1";
+        htcheck.hitEff = "hitEff_ice1";
+        htcheck.hitShinning = false;
+        htcheck.reCheck = true;
+        htcheck.checkTimes = 1;
+        htcheck.hitPos = "";
+    };
+    kula_hit_m5.frame26 = function (mc) {
+        var htcheck = Hero_HitCheck.getInstance(mc);
+        htcheck.hurtBack = "hurt1";
+        htcheck.hurtAway = "hurt2";
+        htcheck.flag = 1;
+        htcheck.end_status = "";
+        htcheck.Vx = 0;
+        htcheck.Vy = 30;
+        htcheck.a = 3;
+        htcheck.g = 0;
+        htcheck.freezeTime2 = 0;
+        htcheck.freezeTime = 0;
+        htcheck.slowTime = 0;
+        htcheck.shake = 0;
+        htcheck.d_rate = 0.5;
+        htcheck.isObj = true;
+        htcheck.hitType = "hitFire1";
+        htcheck.hitEff = "hitEff_ice1";
+        htcheck.hitShinning = false;
+        htcheck.reCheck = true;
+        htcheck.checkTimes = 1;
+        htcheck.hitPos = "";
+    };
+    kula_hit_m5.frame29 = function (mc) {
+        var htcheck = Hero_HitCheck.getInstance(mc);
+        htcheck.hurtBack = "hurt2";
+        htcheck.hurtAway = "hurt2";
+        htcheck.flag = 1;
+        htcheck.end_status = "";
+        htcheck.Vx = 0;
+        htcheck.Vy = 30;
+        htcheck.a = 3;
+        htcheck.g = 0;
+        htcheck.freezeTime2 = 0;
+        htcheck.freezeTime = 0;
+        htcheck.slowTime = 0;
+        htcheck.shake = 0;
+        htcheck.d_rate = 0.5;
+        htcheck.isObj = true;
+        htcheck.hitType = "hitFire1";
+        htcheck.hitEff = "hitEff_ice1";
+        htcheck.hitShinning = false;
+        htcheck.reCheck = true;
+        htcheck.checkTimes = 1;
+        htcheck.hitPos = "";
+    };
+    kula_hit_m5.frame32 = function (mc) {
+        var htcheck = Hero_HitCheck.getInstance(mc);
+        htcheck.hurtBack = "hurt2";
+        htcheck.hurtAway = "hurt2";
+        htcheck.flag = 1;
+        htcheck.end_status = "";
+        htcheck.Vx = 0;
+        htcheck.Vy = 30;
+        htcheck.a = 3;
+        htcheck.g = 0;
+        htcheck.freezeTime2 = 25;
+        htcheck.freezeTime = 0;
+        htcheck.slowTime = 0;
+        htcheck.shake = 0;
+        htcheck.d_rate = 0.5;
+        htcheck.isObj = true;
+        htcheck.hitType = "hitFire1";
+        htcheck.hitEff = "kula_ice_freeze";
+        htcheck.hitShinning = false;
+        htcheck.reCheck = true;
+        htcheck.checkTimes = 1;
+        htcheck.hitPos = "";
+    };
+    kula_hit_m5.frame41 = function (mc) {
+        mc.parent.removeChild(mc);
+    };
+    return kula_hit_m5;
+}());
+__reflect(kula_hit_m5.prototype, "kula_hit_m5");
+//# sourceMappingURL=kula_hit_m5.js.map

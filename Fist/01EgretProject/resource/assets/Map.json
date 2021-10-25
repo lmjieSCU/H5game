@@ -1,0 +1,36 @@
+{
+        "map1":{
+            "bg0" : { "isMove": false, "isAnimation": false, "mc": "bg_1_1_png","X":0,"Y":0},
+            "bg1" : { "isMove": true, "isAnimation": false, "mc": "bg_1_2_png","X":0,"Y":0},
+            "bg2" : { "isMove": true, "isAnimation": false, "mc": "bg_1_3_png","X":0,"Y":0}
+        },
+        "map2":{
+            "bg0" : { "isMove": true, "isAnimation": false, "mc": "bg_2_1_png","X":0,"Y":0},
+            "bg1" : { "isMove": true, "isAnimation": false, "mc": "bg_2_2_png","X":0,"Y":0}
+        },
+        "map3":{
+            "bg0" : { "isMove": true, "isAnimation": false, "mc": "bg_3_1_png","X":0,"Y":0}
+        },
+        "map4":{
+            "bg0" : { "isMove": true, "isAnimation": false, "mc": "bg_4_1_png","X":0,"Y":0}
+        },
+        "map5":{
+            "bg0" : { "isMove": true, "isAnimation": false, "mc": "bg_5_1_png","X":0,"Y":0},
+            "bg1" : { "isMove": true, "isAnimation": false, "mc": "bg_5_2_png","X":0,"Y":0}
+        },
+        "map6":{
+            "bg0" : { "isMove": true, "isAnimation": false, "mc": "bg_6_1_png","X":0,"Y":0}
+        },
+        "map7":{
+            "bg0" : { "isMove": true, "isAnimation": false, "mc": "bg_7_1_png","X":0,"Y":0},
+            "bg1" : { "isMove": true, "isAnimation": false, "mc": "bg_7_2_png","X":0,"Y":0}
+        },
+        "map8":{
+            "bg0" : { "isMove": true, "isAnimation": false, "mc": "bg_8_1_png","X":0,"Y":0}
+        },
+        "map9":{
+            "bg0" : { "isMove": false, "isAnimation": false, "mc": "bg_9_1_png","X":0,"Y":0},
+            "bg1" : { "isMove": true, "isAnimation": false, "mc": "bg_9_2_png","X":0,"Y":0},
+            "bg2" : { "isMove": true, "isAnimation": false, "mc": "bg_9_3_png","X":0,"Y":0}
+        }
+}
